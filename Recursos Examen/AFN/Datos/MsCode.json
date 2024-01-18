@@ -1,0 +1,6248 @@
+{
+    "MEASG" : [ {
+      "year" : "2007",
+      "estCode" : "_Proportion",
+      "estimate" : 22.4,
+      "se" : 2.9,
+      "lowerCIB" : 19.5,
+      "upperCIB" : 25.3,
+      "flag" : "",
+      "_id" : "e96d66a2-d80e-4871-9361-0ecf0e0a1f0b"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "1baccc62-29a0-45f5-8f6a-1bc5e6b93c24"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Number",
+      "estimate" : 240.5,
+      "se" : 31.2,
+      "lowerCIB" : 209.3,
+      "upperCIB" : 271.6,
+      "flag" : "",
+      "_id" : "d63af839-fda2-4329-8c60-edf899f42fd6"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "31727637-0d0d-4608-91e5-f49da76ee5a2"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Population",
+      "estimate" : 1073.4,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "7008532d-07ef-4cbe-87eb-5148e640a667"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Proportion",
+      "estimate" : 23.9,
+      "se" : 2.8,
+      "lowerCIB" : 21.2,
+      "upperCIB" : 26.7,
+      "flag" : "",
+      "_id" : "e7b02854-1c2c-4bda-ae17-3f3dcd16b3dc"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 1.5,
+      "se" : 4.2,
+      "lowerCIB" : -2.7,
+      "upperCIB" : 5.8,
+      "flag" : "",
+      "_id" : "a07c27f8-cd5f-428e-9ac9-d27c71d9c92f"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Number",
+      "estimate" : 257.8,
+      "se" : 29.9,
+      "lowerCIB" : 227.9,
+      "upperCIB" : 287.7,
+      "flag" : "",
+      "_id" : "0a8971f0-563a-4a43-b0c1-60d3cf676345"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 17.3,
+      "se" : 45.5,
+      "lowerCIB" : -28.2,
+      "upperCIB" : 62.8,
+      "flag" : "",
+      "_id" : "369c6fc5-24ee-4409-9f95-1ed6a4bc01d1"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Population",
+      "estimate" : 1076.5,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "c67155c2-3dc4-4e36-9a0f-ade1787a6b00"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Proportion",
+      "estimate" : 23.8,
+      "se" : 2.8,
+      "lowerCIB" : 21.0,
+      "upperCIB" : 26.6,
+      "flag" : "",
+      "_id" : "ddcb78b1-34d9-41fa-a16a-1957d48cb567"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.2,
+      "se" : 4.0,
+      "lowerCIB" : -4.1,
+      "upperCIB" : 3.8,
+      "flag" : "",
+      "_id" : "032e0025-4169-4d1e-8b79-9426323f5c8f"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Number",
+      "estimate" : 256.3,
+      "se" : 30.0,
+      "lowerCIB" : 226.3,
+      "upperCIB" : 286.3,
+      "flag" : "",
+      "_id" : "7b9088d7-1835-422f-89fe-39e786fa47d9"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -1.5,
+      "se" : 43.0,
+      "lowerCIB" : -44.5,
+      "upperCIB" : 41.5,
+      "flag" : "",
+      "_id" : "e0e5766a-e6ba-4968-a620-3bd5c57b31fa"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Population",
+      "estimate" : 1078.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "8150c0e9-9b11-414a-af3b-bbb7859dfbcc"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Proportion",
+      "estimate" : 21.9,
+      "se" : 2.7,
+      "lowerCIB" : 19.2,
+      "upperCIB" : 24.6,
+      "flag" : "",
+      "_id" : "f567a413-8ad7-4c4c-b0c6-43a268fd9994"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.8,
+      "se" : 4.1,
+      "lowerCIB" : -5.9,
+      "upperCIB" : 2.3,
+      "flag" : "",
+      "_id" : "09d29039-931d-4308-aee3-383f8c186060"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Number",
+      "estimate" : 237.4,
+      "se" : 29.0,
+      "lowerCIB" : 208.4,
+      "upperCIB" : 266.4,
+      "flag" : "",
+      "_id" : "669c63da-5471-4f77-980d-7ff2343ccd61"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -18.9,
+      "se" : 44.3,
+      "lowerCIB" : -63.2,
+      "upperCIB" : 25.4,
+      "flag" : "",
+      "_id" : "7f8a2a6b-ba92-4a9f-92f6-7ef7a5ac9a97"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Population",
+      "estimate" : 1082.6,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "7a6a0a46-8a06-41fe-869c-ac616189b703"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Proportion",
+      "estimate" : 21.9,
+      "se" : 2.6,
+      "lowerCIB" : 19.3,
+      "upperCIB" : 24.5,
+      "flag" : "",
+      "_id" : "edc007d1-4fc1-4540-b6d2-ca0c14cc75e9"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 3.8,
+      "lowerCIB" : -3.9,
+      "upperCIB" : 3.8,
+      "flag" : "",
+      "_id" : "233ff375-31ff-4e24-b539-2e3ee60923ee"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Number",
+      "estimate" : 238.0,
+      "se" : 27.3,
+      "lowerCIB" : 210.6,
+      "upperCIB" : 265.3,
+      "flag" : "",
+      "_id" : "ee147eff-773f-415d-9d32-2fb10b68562f"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.6,
+      "se" : 40.9,
+      "lowerCIB" : -40.3,
+      "upperCIB" : 41.5,
+      "flag" : "",
+      "_id" : "3f0071f1-27b1-4f26-ad09-0af40131adfd"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Population",
+      "estimate" : 1086.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "64a8681f-9f33-4f33-bed3-0e013baa6f11"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Proportion",
+      "estimate" : 22.2,
+      "se" : 2.8,
+      "lowerCIB" : 19.4,
+      "upperCIB" : 25.0,
+      "flag" : "",
+      "_id" : "e4490303-b1ce-4b51-9d2f-2ba13daf6f3d"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.3,
+      "se" : 3.9,
+      "lowerCIB" : -3.6,
+      "upperCIB" : 4.2,
+      "flag" : "",
+      "_id" : "4e7b8f7f-1581-43f0-92f8-557386df1576"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Number",
+      "estimate" : 240.7,
+      "se" : 30.8,
+      "lowerCIB" : 209.9,
+      "upperCIB" : 271.5,
+      "flag" : "",
+      "_id" : "bf81935c-0de5-4e64-91c2-b932b281ff00"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 2.7,
+      "se" : 42.5,
+      "lowerCIB" : -39.8,
+      "upperCIB" : 45.2,
+      "flag" : "",
+      "_id" : "46b96bf7-03e3-4507-bdd8-ccf938b50bce"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Population",
+      "estimate" : 1085.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "c9f46f6e-64a5-4b46-8954-9a6fbd9934fd"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Proportion",
+      "estimate" : 21.9,
+      "se" : 2.5,
+      "lowerCIB" : 19.4,
+      "upperCIB" : 24.4,
+      "flag" : "",
+      "_id" : "bbd16103-8136-4855-b8bd-827ddefd4982"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.3,
+      "se" : 3.5,
+      "lowerCIB" : -3.8,
+      "upperCIB" : 3.3,
+      "flag" : "",
+      "_id" : "243cf76c-a499-4aa2-801e-8d553dc3b4a1"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Number",
+      "estimate" : 237.6,
+      "se" : 27.3,
+      "lowerCIB" : 210.3,
+      "upperCIB" : 264.9,
+      "flag" : "",
+      "_id" : "733b6666-91ea-487a-9b45-2aa4d914b026"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -3.1,
+      "se" : 38.5,
+      "lowerCIB" : -41.6,
+      "upperCIB" : 35.4,
+      "flag" : "",
+      "_id" : "b394e603-b6a9-44d0-a98a-910228cfecf6"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Population",
+      "estimate" : 1084.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "56383ebe-c1c2-409e-8525-d3c21ff92962"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Proportion",
+      "estimate" : 23.0,
+      "se" : 2.8,
+      "lowerCIB" : 20.2,
+      "upperCIB" : 25.7,
+      "flag" : "",
+      "_id" : "23303987-0510-47ad-b847-e882902e6866"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 1.0,
+      "se" : 4.1,
+      "lowerCIB" : -3.0,
+      "upperCIB" : 5.1,
+      "flag" : "",
+      "_id" : "3895a384-d6b0-49d9-8b0a-8d05db715aaa"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Number",
+      "estimate" : 248.8,
+      "se" : 30.0,
+      "lowerCIB" : 218.8,
+      "upperCIB" : 278.9,
+      "flag" : "",
+      "_id" : "05278536-d13c-42d6-a3aa-bb6899e6cad3"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 11.2,
+      "se" : 44.3,
+      "lowerCIB" : -33.1,
+      "upperCIB" : 55.5,
+      "flag" : "",
+      "_id" : "dd784b50-29e8-40f0-ba44-830df561f74a"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Population",
+      "estimate" : 1083.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "fbacd291-8467-4cc2-8bbc-8ec43b11f3e1"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Proportion",
+      "estimate" : 23.8,
+      "se" : 2.2,
+      "lowerCIB" : 21.5,
+      "upperCIB" : 26.0,
+      "flag" : "",
+      "_id" : "5a19baf8-35e1-4841-b44b-1191211e3e36"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.8,
+      "se" : 3.4,
+      "lowerCIB" : -2.5,
+      "upperCIB" : 4.2,
+      "flag" : "",
+      "_id" : "e88419b5-18bf-4124-8c2d-4ee8aae11d11"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Number",
+      "estimate" : 258.5,
+      "se" : 23.8,
+      "lowerCIB" : 234.8,
+      "upperCIB" : 282.3,
+      "flag" : "",
+      "_id" : "de3d501f-b4c3-4a6f-8a38-75c1a1b9be60"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 9.7,
+      "se" : 36.6,
+      "lowerCIB" : -26.9,
+      "upperCIB" : 46.3,
+      "flag" : "",
+      "_id" : "86b4ad06-3596-422e-9281-c4b89cb933f9"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Population",
+      "estimate" : 1087.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "6125e24b-e39c-4c1a-9ad7-5de24cf8733a"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Proportion",
+      "estimate" : 22.3,
+      "se" : 2.1,
+      "lowerCIB" : 20.2,
+      "upperCIB" : 24.4,
+      "flag" : "",
+      "_id" : "7e3108dc-0d37-4795-9ffe-b69d8fa25a96"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.4,
+      "se" : 3.2,
+      "lowerCIB" : -4.6,
+      "upperCIB" : 1.7,
+      "flag" : "",
+      "_id" : "5dc82edf-aa90-4d87-b63f-2983e76c5064"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Number",
+      "estimate" : 244.2,
+      "se" : 23.3,
+      "lowerCIB" : 220.9,
+      "upperCIB" : 267.4,
+      "flag" : "",
+      "_id" : "e94b88c9-d5b5-476d-ac72-46757976992f"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -14.3,
+      "se" : 34.1,
+      "lowerCIB" : -48.4,
+      "upperCIB" : 19.8,
+      "flag" : "",
+      "_id" : "6aae96ad-d991-4c6f-901d-5a4dc98ceec2"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Population",
+      "estimate" : 1093.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "70da6506-e61c-4b9a-b62d-cf96c7335c05"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Proportion",
+      "estimate" : 21.4,
+      "se" : 2.1,
+      "lowerCIB" : 19.2,
+      "upperCIB" : 23.5,
+      "flag" : "",
+      "_id" : "b23c6a9b-0f73-4bb2-86f9-52056546ebfa"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.0,
+      "se" : 3.0,
+      "lowerCIB" : -4.0,
+      "upperCIB" : 2.0,
+      "flag" : "",
+      "_id" : "32df3e5a-030b-4cec-99f8-442ba8887e29"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Number",
+      "estimate" : 235.6,
+      "se" : 23.6,
+      "lowerCIB" : 212.0,
+      "upperCIB" : 259.3,
+      "flag" : "",
+      "_id" : "31dcb386-ea80-45a3-9a05-6092ea084669"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -8.6,
+      "se" : 33.0,
+      "lowerCIB" : -41.6,
+      "upperCIB" : 24.4,
+      "flag" : "",
+      "_id" : "4f407149-045b-44f6-87ca-395e43dce36a"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Population",
+      "estimate" : 1103.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "f84a05eb-02db-4abd-b600-f4d85a244c46"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Proportion",
+      "estimate" : 22.8,
+      "se" : 1.9,
+      "lowerCIB" : 20.9,
+      "upperCIB" : 24.7,
+      "flag" : "",
+      "_id" : "bf87677d-87c7-422c-9683-9dbd8ec59d2d"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 1.4,
+      "se" : 2.6,
+      "lowerCIB" : -1.1,
+      "upperCIB" : 4.0,
+      "flag" : "",
+      "_id" : "69e9a858-21c9-4138-a54f-07e222e7a654"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Number",
+      "estimate" : 253.8,
+      "se" : 21.6,
+      "lowerCIB" : 232.3,
+      "upperCIB" : 275.4,
+      "flag" : "",
+      "_id" : "1916a5b4-6fbd-4590-aa83-996b7b9b34d6"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 18.2,
+      "se" : 28.8,
+      "lowerCIB" : -10.6,
+      "upperCIB" : 47.0,
+      "flag" : "",
+      "_id" : "b7937930-9195-4594-9d23-65b551c1755f"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Population",
+      "estimate" : 1113.3,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "2f6a1197-241e-4d10-ad46-f75320c2e2b3"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Proportion",
+      "estimate" : 20.1,
+      "se" : 1.2,
+      "lowerCIB" : 19.0,
+      "upperCIB" : 21.3,
+      "flag" : "",
+      "_id" : "ef394af2-7f9c-4f83-85e7-6b01060dd2b7"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -2.7,
+      "se" : 2.5,
+      "lowerCIB" : -5.2,
+      "upperCIB" : -0.2,
+      "flag" : "",
+      "_id" : "914f5df0-78dd-4f39-a76c-b33d982f386b"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Number",
+      "estimate" : 227.9,
+      "se" : 13.2,
+      "lowerCIB" : 214.7,
+      "upperCIB" : 241.1,
+      "flag" : "",
+      "_id" : "4cd90782-5344-45dc-93c8-87598ce2b7de"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -25.9,
+      "se" : 29.7,
+      "lowerCIB" : -53.8,
+      "upperCIB" : 2.0,
+      "flag" : "",
+      "_id" : "f3feca44-9c9b-452a-ad56-e4999d9f9b40"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Population",
+      "estimate" : 1132.8,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "50cdecd4-0dc4-4aa7-acba-88413534060d"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Proportion",
+      "estimate" : 19.5,
+      "se" : 1.3,
+      "lowerCIB" : 18.2,
+      "upperCIB" : 20.8,
+      "flag" : "",
+      "_id" : "dbc8d4d9-ecab-4ee3-ae7e-ff651bfac84f"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.6,
+      "se" : 1.8,
+      "lowerCIB" : -2.5,
+      "upperCIB" : 1.2,
+      "flag" : "",
+      "_id" : "9cbe716b-699d-4a20-a2d6-2e30a99604fd"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Number",
+      "estimate" : 222.8,
+      "se" : 14.8,
+      "lowerCIB" : 207.9,
+      "upperCIB" : 237.6,
+      "flag" : "",
+      "_id" : "01da46e6-22a1-414d-b1db-7b2ad85e7b9c"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -5.1,
+      "se" : 20.8,
+      "lowerCIB" : -25.9,
+      "upperCIB" : 15.7,
+      "flag" : "",
+      "_id" : "b1dd58d1-fd29-40e9-8d66-4332c0f33bc0"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Population",
+      "estimate" : 1144.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "946bbafd-51ec-4286-9cb8-3cdc72e0f98e"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Proportion",
+      "estimate" : 19.6,
+      "se" : 1.4,
+      "lowerCIB" : 18.2,
+      "upperCIB" : 20.9,
+      "flag" : "",
+      "_id" : "89e51c42-6ff4-4684-81a5-449b568dfc9d"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.1,
+      "se" : 1.8,
+      "lowerCIB" : -1.7,
+      "upperCIB" : 1.9,
+      "flag" : "",
+      "_id" : "12d97b77-cbd2-47d2-83f9-252e0ab31a4d"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Number",
+      "estimate" : 225.2,
+      "se" : 15.6,
+      "lowerCIB" : 209.6,
+      "upperCIB" : 240.7,
+      "flag" : "",
+      "_id" : "24e6a3b5-97ae-4c64-8164-a03505609e66"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 2.4,
+      "se" : 20.9,
+      "lowerCIB" : -18.5,
+      "upperCIB" : 23.3,
+      "flag" : "",
+      "_id" : "ed4f1f2b-9ac8-42ee-8a1c-2d51fec5b5f2"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Population",
+      "estimate" : 1149.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "79002f5e-9c70-418d-85ad-70e031b391a3"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Proportion",
+      "estimate" : 19.4,
+      "se" : 2.1,
+      "lowerCIB" : 17.3,
+      "upperCIB" : 21.5,
+      "flag" : "",
+      "_id" : "bab658d2-ec59-48b1-81c8-f165de3dfa21"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.2,
+      "se" : 2.4,
+      "lowerCIB" : -2.6,
+      "upperCIB" : 2.3,
+      "flag" : "",
+      "_id" : "7c13faf1-572a-4a4f-baca-ec625f72206a"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Number",
+      "estimate" : 223.7,
+      "se" : 24.2,
+      "lowerCIB" : 199.4,
+      "upperCIB" : 247.9,
+      "flag" : "",
+      "_id" : "2eb55960-196d-451f-8559-24bf97abc3b1"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -1.5,
+      "se" : 28.0,
+      "lowerCIB" : -29.5,
+      "upperCIB" : 26.5,
+      "flag" : "",
+      "_id" : "734b48bd-91b7-4b72-b7c7-e56560c5924b"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Population",
+      "estimate" : 1150.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "db730609-5476-4515-8e30-40b4bc79ae68"
+    } ],
+    "MEASF" : [ {
+      "year" : "2007",
+      "estCode" : "_Proportion",
+      "estimate" : 29.3,
+      "se" : 2.9,
+      "lowerCIB" : 26.4,
+      "upperCIB" : 32.2,
+      "flag" : "",
+      "_id" : "90989bca-6458-4095-b34a-2183a75c6278"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "6b88a8c4-a9e8-4bf8-9ca8-fb59af3354de"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Number",
+      "estimate" : 314.2,
+      "se" : 31.2,
+      "lowerCIB" : 283.0,
+      "upperCIB" : 345.4,
+      "flag" : "",
+      "_id" : "42fa961b-bbaa-4181-bf9f-e51506f5cdf2"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "b5cb2c28-d730-4926-af21-73af52a1b20a"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Population",
+      "estimate" : 1073.4,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "c4c8aa3e-520e-474c-a24f-542f60885b0d"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Proportion",
+      "estimate" : 33.0,
+      "se" : 3.4,
+      "lowerCIB" : 29.6,
+      "upperCIB" : 36.4,
+      "flag" : "",
+      "_id" : "058ac221-ced4-4e01-a3d4-703f0dfa0baa"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 3.7,
+      "se" : 4.7,
+      "lowerCIB" : -0.9,
+      "upperCIB" : 8.4,
+      "flag" : "",
+      "_id" : "64a194fa-4b47-44c7-9524-d07171c1e30c"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Number",
+      "estimate" : 355.2,
+      "se" : 36.4,
+      "lowerCIB" : 318.8,
+      "upperCIB" : 391.7,
+      "flag" : "",
+      "_id" : "5e953c21-f502-4cc2-a5d7-80043c6f3a53"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 41.0,
+      "se" : 49.6,
+      "lowerCIB" : -8.6,
+      "upperCIB" : 90.6,
+      "flag" : "",
+      "_id" : "ee230dfa-f7fb-4e5a-8294-5a12939dc7a1"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Population",
+      "estimate" : 1076.5,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "ab094847-689a-41a2-a259-97b388e57e49"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Proportion",
+      "estimate" : 31.4,
+      "se" : 3.1,
+      "lowerCIB" : 28.4,
+      "upperCIB" : 34.5,
+      "flag" : "",
+      "_id" : "5e8b1262-dc92-4a4b-af10-a13002fd338a"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.6,
+      "se" : 4.6,
+      "lowerCIB" : -6.2,
+      "upperCIB" : 3.0,
+      "flag" : "",
+      "_id" : "83f613de-4723-4d6d-b9fd-b61a31d16f68"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Number",
+      "estimate" : 338.7,
+      "se" : 33.2,
+      "lowerCIB" : 305.5,
+      "upperCIB" : 371.8,
+      "flag" : "",
+      "_id" : "e3b85bf1-5cc4-4be4-a3a8-ca9c8090451e"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -16.5,
+      "se" : 50.0,
+      "lowerCIB" : -66.5,
+      "upperCIB" : 33.5,
+      "flag" : "",
+      "_id" : "f907e476-fd88-43c3-baf3-11de9d6559fd"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Population",
+      "estimate" : 1078.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "abf29341-9bc3-4631-ba1e-a8b14717aea8"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Proportion",
+      "estimate" : 29.7,
+      "se" : 2.6,
+      "lowerCIB" : 27.1,
+      "upperCIB" : 32.4,
+      "flag" : "",
+      "_id" : "aed22ce2-16af-4240-8a36-f458fdfbdd98"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.7,
+      "se" : 4.0,
+      "lowerCIB" : -5.7,
+      "upperCIB" : 2.3,
+      "flag" : "",
+      "_id" : "f82fd574-ad63-4c61-aaaa-e76b47494096"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Number",
+      "estimate" : 321.9,
+      "se" : 28.5,
+      "lowerCIB" : 293.4,
+      "upperCIB" : 350.5,
+      "flag" : "",
+      "_id" : "a71f66d5-a5ef-4b53-a31c-b9c205c93b0a"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -16.8,
+      "se" : 43.0,
+      "lowerCIB" : -59.8,
+      "upperCIB" : 26.2,
+      "flag" : "",
+      "_id" : "13e7d262-4b75-4341-9087-212292213e96"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Population",
+      "estimate" : 1082.6,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "79d4c983-655d-4a4e-966d-d5b112aa7a24"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Proportion",
+      "estimate" : 30.2,
+      "se" : 3.1,
+      "lowerCIB" : 27.1,
+      "upperCIB" : 33.3,
+      "flag" : "",
+      "_id" : "aad9df1c-1301-4a85-89ff-162a3453fb6c"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.5,
+      "se" : 4.1,
+      "lowerCIB" : -3.6,
+      "upperCIB" : 4.5,
+      "flag" : "",
+      "_id" : "91e10f73-488d-46dc-b3b6-aca8d5d92f75"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Number",
+      "estimate" : 328.1,
+      "se" : 32.8,
+      "lowerCIB" : 295.3,
+      "upperCIB" : 360.9,
+      "flag" : "",
+      "_id" : "037e478a-2562-4726-9bbe-8d7380fc2f35"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 6.2,
+      "se" : 43.6,
+      "lowerCIB" : -37.4,
+      "upperCIB" : 49.8,
+      "flag" : "",
+      "_id" : "ea4df131-8d51-409d-a898-68b719cfa451"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Population",
+      "estimate" : 1086.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "3c1638e5-b0c5-4d45-b0aa-ca38dd6a74d1"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Proportion",
+      "estimate" : 28.9,
+      "se" : 2.7,
+      "lowerCIB" : 26.2,
+      "upperCIB" : 31.7,
+      "flag" : "",
+      "_id" : "1be28440-a638-4bd2-9805-42ff03b44696"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.2,
+      "se" : 4.2,
+      "lowerCIB" : -5.4,
+      "upperCIB" : 2.9,
+      "flag" : "",
+      "_id" : "0ba10560-085c-4f05-8753-7e0b54370b82"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Number",
+      "estimate" : 314.3,
+      "se" : 30.1,
+      "lowerCIB" : 284.2,
+      "upperCIB" : 344.4,
+      "flag" : "",
+      "_id" : "ffdc7859-1c26-430d-9ae4-cd8b501e2240"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -13.8,
+      "se" : 44.8,
+      "lowerCIB" : -58.6,
+      "upperCIB" : 31.0,
+      "flag" : "",
+      "_id" : "c1bf4284-f21c-45ee-8d42-d7c52fe8d475"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Population",
+      "estimate" : 1085.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "24f1e5fd-9f82-41d3-a17e-83c24b10b387"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Proportion",
+      "estimate" : 29.3,
+      "se" : 3.0,
+      "lowerCIB" : 26.4,
+      "upperCIB" : 32.3,
+      "flag" : "",
+      "_id" : "bb8a3919-f8f3-4d51-99d0-8a2d2e78392d"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.4,
+      "se" : 4.2,
+      "lowerCIB" : -3.8,
+      "upperCIB" : 4.6,
+      "flag" : "",
+      "_id" : "72a0b176-d71f-4352-9728-e6540eb9e640"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Number",
+      "estimate" : 318.3,
+      "se" : 32.1,
+      "lowerCIB" : 286.1,
+      "upperCIB" : 350.4,
+      "flag" : "",
+      "_id" : "4d966194-f4af-4af3-bfe5-f1bf7f43e248"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 4.0,
+      "se" : 45.5,
+      "lowerCIB" : -41.5,
+      "upperCIB" : 49.5,
+      "flag" : "",
+      "_id" : "c9f24eb7-e8e9-44f7-b83b-6f8878ea99c5"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Population",
+      "estimate" : 1084.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "f196b142-9184-42cf-a40b-faf0c9e43a05"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Proportion",
+      "estimate" : 29.3,
+      "se" : 2.9,
+      "lowerCIB" : 26.4,
+      "upperCIB" : 32.2,
+      "flag" : "",
+      "_id" : "cde51376-d5cf-4089-9159-27d1dc4e72dc"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 4.2,
+      "lowerCIB" : -4.3,
+      "upperCIB" : 4.2,
+      "flag" : "",
+      "_id" : "5a698ec4-09ca-41db-8b7f-5eb6f574397f"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Number",
+      "estimate" : 317.8,
+      "se" : 31.8,
+      "lowerCIB" : 285.9,
+      "upperCIB" : 349.6,
+      "flag" : "",
+      "_id" : "8a0db74d-7119-41cb-9731-686e42353f5c"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -0.5,
+      "se" : 46.1,
+      "lowerCIB" : -46.6,
+      "upperCIB" : 45.6,
+      "flag" : "",
+      "_id" : "4ee27307-3587-4f8c-a045-7393ee5dd4c9"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Population",
+      "estimate" : 1083.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "1cd1756b-6f00-4ea9-9f99-cfa91e78e39d"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Proportion",
+      "estimate" : 30.5,
+      "se" : 3.3,
+      "lowerCIB" : 27.2,
+      "upperCIB" : 33.7,
+      "flag" : "",
+      "_id" : "3c7b0dbc-cc4f-4b51-9f29-9597d524232f"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 1.1,
+      "se" : 4.3,
+      "lowerCIB" : -3.1,
+      "upperCIB" : 5.4,
+      "flag" : "",
+      "_id" : "a9134d73-6386-4501-a799-e6d8d9909d40"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Number",
+      "estimate" : 331.2,
+      "se" : 34.3,
+      "lowerCIB" : 296.9,
+      "upperCIB" : 365.4,
+      "flag" : "",
+      "_id" : "e2ec9afe-82ce-45f8-8f60-0922aa8e8a82"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 13.4,
+      "se" : 46.0,
+      "lowerCIB" : -32.6,
+      "upperCIB" : 59.4,
+      "flag" : "",
+      "_id" : "62bf0d09-c341-4215-807f-81a7acd0cb26"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Population",
+      "estimate" : 1087.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "f26a4455-c64b-4977-bbf5-05bebc304945"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Proportion",
+      "estimate" : 29.8,
+      "se" : 2.4,
+      "lowerCIB" : 27.4,
+      "upperCIB" : 32.2,
+      "flag" : "",
+      "_id" : "c0973721-66cd-4e6d-8b24-974fafefaace"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.7,
+      "se" : 3.8,
+      "lowerCIB" : -4.5,
+      "upperCIB" : 3.1,
+      "flag" : "",
+      "_id" : "17edb851-9176-4029-8bfa-3cc8d8910fea"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Number",
+      "estimate" : 325.7,
+      "se" : 26.7,
+      "lowerCIB" : 299.0,
+      "upperCIB" : 352.4,
+      "flag" : "",
+      "_id" : "c5a902cf-c676-485e-ad3b-df41e4bdfbf3"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -5.5,
+      "se" : 40.5,
+      "lowerCIB" : -46.0,
+      "upperCIB" : 35.0,
+      "flag" : "",
+      "_id" : "25de1dc9-c1e8-43cf-a385-d5cbbaf85727"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Population",
+      "estimate" : 1093.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "8683a7e3-34fd-40c3-b994-ebe954d457ee"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Proportion",
+      "estimate" : 28.4,
+      "se" : 2.6,
+      "lowerCIB" : 25.8,
+      "upperCIB" : 31.0,
+      "flag" : "",
+      "_id" : "7f857b80-069e-4a61-b607-d319556d7613"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.4,
+      "se" : 3.7,
+      "lowerCIB" : -5.0,
+      "upperCIB" : 2.3,
+      "flag" : "",
+      "_id" : "b57c4e0a-5553-4d50-8420-6d98b14d2076"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Number",
+      "estimate" : 313.6,
+      "se" : 28.3,
+      "lowerCIB" : 285.3,
+      "upperCIB" : 342.0,
+      "flag" : "",
+      "_id" : "36edd38b-1119-468a-a7ba-295e5c21f32a"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -12.1,
+      "se" : 39.8,
+      "lowerCIB" : -51.9,
+      "upperCIB" : 27.7,
+      "flag" : "",
+      "_id" : "25c2ffb6-cbdc-4515-a000-1264f4a6bca7"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Population",
+      "estimate" : 1103.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "66ae946a-073f-43a4-9a0e-cc5e910ad744"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Proportion",
+      "estimate" : 30.6,
+      "se" : 2.4,
+      "lowerCIB" : 28.3,
+      "upperCIB" : 33.0,
+      "flag" : "",
+      "_id" : "15890121-fca6-4917-9b15-99a2a4e3a57f"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 2.2,
+      "se" : 3.2,
+      "lowerCIB" : -1.0,
+      "upperCIB" : 5.4,
+      "flag" : "",
+      "_id" : "2eeab825-32aa-41a3-be00-34c42eb0e93d"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Number",
+      "estimate" : 341.1,
+      "se" : 26.5,
+      "lowerCIB" : 314.6,
+      "upperCIB" : 367.7,
+      "flag" : "",
+      "_id" : "38899e3d-949a-49ff-a1ec-eed18049dc5e"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 27.5,
+      "se" : 35.3,
+      "lowerCIB" : -7.8,
+      "upperCIB" : 62.8,
+      "flag" : "",
+      "_id" : "4c2037ed-9803-4d8a-8b43-b7ea1342d8a1"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Population",
+      "estimate" : 1113.3,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "ba08d03f-bb0d-4deb-a052-f579a2b06421"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Proportion",
+      "estimate" : 27.7,
+      "se" : 1.2,
+      "lowerCIB" : 26.5,
+      "upperCIB" : 28.8,
+      "flag" : "",
+      "_id" : "36739cd7-a27b-4cf1-a25a-cd40078a60ad"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -3.0,
+      "se" : 3.1,
+      "lowerCIB" : -6.05,
+      "upperCIB" : 0.1,
+      "flag" : "",
+      "_id" : "fa9c9b5b-d283-4667-af3e-3d6aa298708b"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Number",
+      "estimate" : 313.2,
+      "se" : 13.5,
+      "lowerCIB" : 299.7,
+      "upperCIB" : 326.8,
+      "flag" : "",
+      "_id" : "d21f4fb6-e714-4947-a2bf-85f388d5480c"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -27.9,
+      "se" : 34.7,
+      "lowerCIB" : -62.6,
+      "upperCIB" : 6.8,
+      "flag" : "",
+      "_id" : "5309214a-487f-48c1-9820-55b407856f64"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Population",
+      "estimate" : 1132.8,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "102de11a-50eb-4f5f-83c2-8dee208a362c"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Proportion",
+      "estimate" : 27.8,
+      "se" : 1.6,
+      "lowerCIB" : 26.2,
+      "upperCIB" : 29.4,
+      "flag" : "",
+      "_id" : "9b701d4c-6fd5-45d1-a5d3-f9f8dc4a0f63"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.2,
+      "se" : 2.1,
+      "lowerCIB" : -2.0,
+      "upperCIB" : 2.3,
+      "flag" : "",
+      "_id" : "e97363da-d850-45db-9dc1-f78894e6f881"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Number",
+      "estimate" : 318.1,
+      "se" : 18.4,
+      "lowerCIB" : 299.7,
+      "upperCIB" : 336.6,
+      "flag" : "",
+      "_id" : "61b94f31-fe55-43fb-bc42-d97fd0f3fefb"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 4.9,
+      "se" : 24.0,
+      "lowerCIB" : -19.1,
+      "upperCIB" : 28.9,
+      "flag" : "",
+      "_id" : "509fbcf5-a9fb-4fca-b7ae-803d3c2686c5"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Population",
+      "estimate" : 1144.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "12ba893b-ebef-428e-acd5-34a8db00034c"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Proportion",
+      "estimate" : 27.5,
+      "se" : 1.5,
+      "lowerCIB" : 26.0,
+      "upperCIB" : 28.9,
+      "flag" : "",
+      "_id" : "d495a213-961f-42aa-b605-d9831d3d84d9"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.3,
+      "se" : 2.1,
+      "lowerCIB" : -2.5,
+      "upperCIB" : 1.8,
+      "flag" : "",
+      "_id" : "93d27f12-086d-4006-a45e-82a4564a7a6f"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Number",
+      "estimate" : 315.6,
+      "se" : 16.8,
+      "lowerCIB" : 298.7,
+      "upperCIB" : 332.4,
+      "flag" : "",
+      "_id" : "6cf4188f-0455-4198-8cc5-9ac8959dd64f"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -2.5,
+      "se" : 24.4,
+      "lowerCIB" : -27.0,
+      "upperCIB" : 21.9,
+      "flag" : "",
+      "_id" : "c4bd7bee-21fe-48e4-b918-67ddbc463c18"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Population",
+      "estimate" : 1149.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "fa15ece6-3078-4d4a-8001-c1d00686b0c2"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Proportion",
+      "estimate" : 28.5,
+      "se" : 2.4,
+      "lowerCIB" : 26.1,
+      "upperCIB" : 30.9,
+      "flag" : "",
+      "_id" : "94a3b02d-b700-40c1-89a0-6fbc54f769b1"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 1.0,
+      "se" : 2.9,
+      "lowerCIB" : -1.8,
+      "upperCIB" : 3.9,
+      "flag" : "",
+      "_id" : "0eb2b625-1dba-4da1-8ace-3280d42fd9ee"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Number",
+      "estimate" : 327.9,
+      "se" : 27.8,
+      "lowerCIB" : 300.1,
+      "upperCIB" : 355.7,
+      "flag" : "",
+      "_id" : "73ecb7e9-28b7-43bd-a927-ad0fe1e0f35e"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 12.3,
+      "se" : 32.8,
+      "lowerCIB" : -20.5,
+      "upperCIB" : 45.1,
+      "flag" : "",
+      "_id" : "607c38b6-1971-4e9c-944e-c4af5f62aea7"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Population",
+      "estimate" : 1150.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "44c66c56-445f-445e-931e-94eb9c033858"
+    } ],
+    "MEASI" : [ {
+      "year" : "2007",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "2b41af40-b944-4e0e-a8a3-d05be8adea0e"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "04e02096-2c45-471e-b2f0-2d94a4e912d4"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "1a1aa5bb-e137-4d56-bb44-0b7e341cadc4"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "b7fc3d48-6cb4-47d8-8a76-807cc0a8f92d"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "0913e557-39b2-4160-90e4-ad50f6baf54d"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "50fa4e7c-e58c-4dd4-b26a-91e4b8c9f212"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "708d1153-9ad1-4cb8-80d5-a87a5611a43b"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "baaf92e2-55ad-4285-a901-0ae93b9bcbf7"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "b9f668c0-36c2-45e9-acf7-9b3a4f201209"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "5494324b-0c02-44e8-86c5-75e9ef9cfe9c"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "9b72f992-c01c-486b-a210-e8024bbd3b0d"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "1eb23872-a758-4e93-a119-09a9060f829a"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "a7a752f7-8b25-4f2e-9ad1-962ddebfc445"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "38ef992b-e875-4286-aee9-6d55d762300b"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "8d767cdc-1bf7-40ce-b902-07dd3b1ea21b"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "1c5a31fd-a596-4a72-b343-65df8d4d9814"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "d32d8d25-5229-4ad0-a6f2-b16a33447890"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "863062db-4f5a-42f6-9d33-66ac86034c89"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "03949f5d-d974-4fda-8e07-2d9651c3d15b"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "2817d627-b1cf-4d9e-95a1-12d9a2c6f012"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "9bd0a177-aeba-4238-80c1-5305d621e637"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "071e6a25-eacf-455d-87b4-6e050b36196e"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "eeb6045e-ab34-4b15-9ad2-fea3ffd63d65"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "71b408cd-5844-4c4b-a1c8-5147dda7f662"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "2308915d-96ab-43f9-acac-7a7ecd02f451"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "b65f6a6c-bcee-4f77-b204-a934ca43fe6c"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "97429a18-ffc0-4688-8143-726308bebdda"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "23a3fcf1-ee7e-47a3-8bec-c520f07a8ae6"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "f95541b7-456a-4a38-9ed8-7fb882d087d3"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "e7a43f79-f976-4560-b4dc-79660db9ced5"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Proportion",
+      "estimate" : 7.7,
+      "se" : 2.7,
+      "lowerCIB" : 5.1,
+      "upperCIB" : 10.4,
+      "flag" : "",
+      "_id" : "7a327bcd-ae8d-4f57-9454-505401684681"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "e698d2a5-d8a7-4dfc-83ae-3a25b2393a0d"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Number",
+      "estimate" : 84.0,
+      "se" : 29.1,
+      "lowerCIB" : 54.9,
+      "upperCIB" : 113.1,
+      "flag" : "",
+      "_id" : "e87493c2-6c5d-4a21-8756-fb95b6e81f56"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "25134c0f-9164-4402-9902-be51e6e85854"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Population",
+      "estimate" : 1084.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "d8f84684-c7e7-40ea-b81c-be76a142d4a8"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Proportion",
+      "estimate" : 8.4,
+      "se" : 3.1,
+      "lowerCIB" : 5.4,
+      "upperCIB" : 11.5,
+      "flag" : "",
+      "_id" : "54a256f5-374e-4388-bd58-47873f141a49"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.7,
+      "se" : 4.2,
+      "lowerCIB" : -3.5,
+      "upperCIB" : 4.9,
+      "flag" : "",
+      "_id" : "f0410029-17c9-4a9d-8f98-93f0811628cb"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Number",
+      "estimate" : 91.5,
+      "se" : 33.1,
+      "lowerCIB" : 58.4,
+      "upperCIB" : 124.6,
+      "flag" : "",
+      "_id" : "35b60a28-15f6-4bd9-92e3-227be7b13673"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 7.5,
+      "se" : 45.4,
+      "lowerCIB" : -37.9,
+      "upperCIB" : 52.9,
+      "flag" : "",
+      "_id" : "76377d5f-f27e-4a39-84a6-aca5b6812160"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Population",
+      "estimate" : 1083.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "3dc045e3-5755-4f8e-a506-b875cd28990d"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Proportion",
+      "estimate" : 8.6,
+      "se" : 3.4,
+      "lowerCIB" : 5.2,
+      "upperCIB" : 11.9,
+      "flag" : "",
+      "_id" : "0fd94176-2d49-41c9-a4ba-6244f2ee60c7"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.1,
+      "se" : 4.8,
+      "lowerCIB" : -4.7,
+      "upperCIB" : 4.9,
+      "flag" : "",
+      "_id" : "19cf1804-9db7-487a-8f57-4765d05ae4d2"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Number",
+      "estimate" : 93.0,
+      "se" : 36.2,
+      "lowerCIB" : 56.8,
+      "upperCIB" : 129.3,
+      "flag" : "",
+      "_id" : "dd7dfbe8-38e8-410c-adcc-91cb4eafebf0"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 1.5,
+      "se" : 51.6,
+      "lowerCIB" : -50.1,
+      "upperCIB" : 53.1,
+      "flag" : "",
+      "_id" : "14e7b3c6-ca34-4a25-a9ea-0e8c58f6e8ef"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Population",
+      "estimate" : 1087.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "ba9523e3-8bee-4a9e-833e-cab5a06be19a"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Proportion",
+      "estimate" : 4.6,
+      "se" : 1.9,
+      "lowerCIB" : 2.7,
+      "upperCIB" : 6.5,
+      "flag" : "",
+      "_id" : "29c32f3c-dfb2-4201-be3c-fc4d45cd95c3"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -4.0,
+      "se" : 4.0,
+      "lowerCIB" : -8.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "7a41fc07-5488-4798-8037-4a6870bedfee"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Number",
+      "estimate" : 50.2,
+      "se" : 20.3,
+      "lowerCIB" : 30.0,
+      "upperCIB" : 70.5,
+      "flag" : "",
+      "_id" : "eb6720e7-ac3d-42ed-9541-f7badd3fdbaa"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -42.8,
+      "se" : 43.5,
+      "lowerCIB" : -86.3,
+      "upperCIB" : 0.7,
+      "flag" : "",
+      "_id" : "4d3ef1d0-5444-461d-9600-614955e1054d"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Population",
+      "estimate" : 1093.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "7e573872-9ac0-45e2-bb44-de219f7d16ea"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Proportion",
+      "estimate" : 6.7,
+      "se" : 2.1,
+      "lowerCIB" : 4.6,
+      "upperCIB" : 8.8,
+      "flag" : "",
+      "_id" : "913b822d-ca62-46b4-94af-6a470c7c2aa8"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 2.1,
+      "se" : 3.0,
+      "lowerCIB" : -0.9,
+      "upperCIB" : 5.1,
+      "flag" : "",
+      "_id" : "fb548c47-cb81-4b10-b3bd-99667fa2d9e1"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Number",
+      "estimate" : 73.6,
+      "se" : 23.4,
+      "lowerCIB" : 50.2,
+      "upperCIB" : 97.0,
+      "flag" : "",
+      "_id" : "b169fc5b-e3f4-4156-bcc9-85088d97171b"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 23.4,
+      "se" : 33.1,
+      "lowerCIB" : -9.7,
+      "upperCIB" : 56.5,
+      "flag" : "",
+      "_id" : "7915ee29-1590-49f0-aa80-815b4c835d94"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Population",
+      "estimate" : 1103.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "fe6099b4-274a-4dd4-9a9b-61f3cf7e964b"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Proportion",
+      "estimate" : 5.8,
+      "se" : 1.4,
+      "lowerCIB" : 4.4,
+      "upperCIB" : 7.2,
+      "flag" : "",
+      "_id" : "093748dc-ede1-43b0-a382-ce4656d9ce13"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.8,
+      "se" : 2.6,
+      "lowerCIB" : -3.5,
+      "upperCIB" : 1.8,
+      "flag" : "",
+      "_id" : "74e43a2e-5e13-4516-a82f-360cee7dd15b"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Number",
+      "estimate" : 64.8,
+      "se" : 15.6,
+      "lowerCIB" : 49.2,
+      "upperCIB" : 80.4,
+      "flag" : "",
+      "_id" : "b33f1995-3ea4-42a9-967f-6e5fb0662e4a"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -8.8,
+      "se" : 28.9,
+      "lowerCIB" : -37.7,
+      "upperCIB" : 20.1,
+      "flag" : "",
+      "_id" : "fc6ca60a-8f5a-4f3b-93ff-f6be41e3e485"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Population",
+      "estimate" : 1113.3,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "2055db83-c550-469d-87af-04cdfd5f11ed"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Proportion",
+      "estimate" : 5.7,
+      "se" : 0.6,
+      "lowerCIB" : 5.1,
+      "upperCIB" : 6.3,
+      "flag" : "",
+      "_id" : "ccacebb8-fd86-47f3-be3d-9dc991f1d5a2"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.1,
+      "se" : 1.6,
+      "lowerCIB" : -1.8,
+      "upperCIB" : 1.5,
+      "flag" : "",
+      "_id" : "55a4515f-8caf-4609-a6bd-88cffc6cf1d9"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Number",
+      "estimate" : 64.6,
+      "se" : 7.1,
+      "lowerCIB" : 57.5,
+      "upperCIB" : 71.7,
+      "flag" : "",
+      "_id" : "b1f8ffc7-aef4-469b-86c5-eecb6fc5b619"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -0.2,
+      "se" : 18.2,
+      "lowerCIB" : -18.4,
+      "upperCIB" : 18.0,
+      "flag" : "",
+      "_id" : "9697a473-0570-4f18-9390-014bde546842"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Population",
+      "estimate" : 1132.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "71896ace-285e-4c3b-8384-d7de382cef17"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Proportion",
+      "estimate" : 4.6,
+      "se" : 0.7,
+      "lowerCIB" : 3.9,
+      "upperCIB" : 5.3,
+      "flag" : "",
+      "_id" : "c34cf984-6032-432a-ad1a-a948c4b6ab1b"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.1,
+      "se" : 0.9,
+      "lowerCIB" : -2.0,
+      "upperCIB" : -0.2,
+      "flag" : "",
+      "_id" : "10dbd9ee-ac54-4e2b-a862-49bccc5d2250"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Number",
+      "estimate" : 52.6,
+      "se" : 8.0,
+      "lowerCIB" : 44.6,
+      "upperCIB" : 60.6,
+      "flag" : "",
+      "_id" : "3dbcfb03-d0b5-4da3-b4b3-440a2d7b49da"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -12.0,
+      "se" : 10.4,
+      "lowerCIB" : -22.3,
+      "upperCIB" : -1.6,
+      "flag" : "",
+      "_id" : "322e1591-3d58-4cbd-bec4-f218fd30131c"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Population",
+      "estimate" : 1142.3,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "e03563db-ccc7-4cb3-b3c5-654eae7f6b81"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Proportion",
+      "estimate" : 4.9,
+      "se" : 0.9,
+      "lowerCIB" : 4.0,
+      "upperCIB" : 5.8,
+      "flag" : "",
+      "_id" : "fc3dd597-cf91-4156-912e-55c09d616561"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.3,
+      "se" : 1.1,
+      "lowerCIB" : -0.8,
+      "upperCIB" : 1.3,
+      "flag" : "",
+      "_id" : "137a9052-6fdc-4dce-ade5-0b013d825b99"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Number",
+      "estimate" : 56.1,
+      "se" : 10.1,
+      "lowerCIB" : 46.1,
+      "upperCIB" : 66.2,
+      "flag" : "",
+      "_id" : "e32d8d96-45f9-4ff4-a2f4-bba511815520"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 3.5,
+      "se" : 12.1,
+      "lowerCIB" : -8.6,
+      "upperCIB" : 15.7,
+      "flag" : "",
+      "_id" : "99968cbe-5ac6-4135-8a4c-a30f3f8b91d3"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Population",
+      "estimate" : 1146.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "06805718-17c5-403d-a048-0334ffd54226"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Proportion",
+      "estimate" : 3.9,
+      "se" : 1.0,
+      "lowerCIB" : 2.9,
+      "upperCIB" : 4.9,
+      "flag" : "",
+      "_id" : "e598121f-9235-4e9c-8ea2-ef597b6133da"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.0,
+      "se" : 1.3,
+      "lowerCIB" : -2.3,
+      "upperCIB" : 0.3,
+      "flag" : "",
+      "_id" : "af45136b-40dd-4e74-9ae4-106378e26c5e"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Number",
+      "estimate" : 45.1,
+      "se" : 11.2,
+      "lowerCIB" : 33.9,
+      "upperCIB" : 56.3,
+      "flag" : "",
+      "_id" : "fd8db759-3139-4354-a26d-8f72ac912097"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -11.1,
+      "se" : 14.7,
+      "lowerCIB" : -25.8,
+      "upperCIB" : 3.6,
+      "flag" : "",
+      "_id" : "adac1207-b29c-461b-b696-83170a321562"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Population",
+      "estimate" : 1149.6,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "ca22a54f-bf98-40dc-9a26-73221d1b3849"
+    } ],
+    "MEASH" : [ {
+      "year" : "2007",
+      "estCode" : "_Proportion",
+      "estimate" : 15.3,
+      "se" : 2.8,
+      "lowerCIB" : 12.5,
+      "upperCIB" : 18.1,
+      "flag" : "",
+      "_id" : "56d09805-5960-475d-83fa-999a3b48cc7e"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "3f0486f4-79bc-49e9-9148-fc6a013e3627"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Number",
+      "estimate" : 163.9,
+      "se" : 30.3,
+      "lowerCIB" : 133.6,
+      "upperCIB" : 194.2,
+      "flag" : "",
+      "_id" : "8000690f-9419-4eaf-9ed2-7e65e093d1cd"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "392f8e5c-2601-4f79-baad-1c9e0ad84051"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Population",
+      "estimate" : 1073.4,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "b54a6726-52ac-4582-b79a-c87f39154f9c"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Proportion",
+      "estimate" : 14.5,
+      "se" : 2.2,
+      "lowerCIB" : 12.2,
+      "upperCIB" : 16.7,
+      "flag" : "",
+      "_id" : "f1ad096b-b9fc-4d78-a5fe-e3446e8436e5"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.8,
+      "se" : 3.6,
+      "lowerCIB" : -4.4,
+      "upperCIB" : 2.8,
+      "flag" : "",
+      "_id" : "feee8707-ed8e-4a99-a610-003daf50b3c0"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Number",
+      "estimate" : 155.9,
+      "se" : 24.0,
+      "lowerCIB" : 131.9,
+      "upperCIB" : 179.9,
+      "flag" : "",
+      "_id" : "c7905dc2-67a5-4820-89e8-6e0f82e304f9"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -8.0,
+      "se" : 38.3,
+      "lowerCIB" : -46.3,
+      "upperCIB" : 30.3,
+      "flag" : "",
+      "_id" : "b5903319-28c1-440d-8df6-b3d4a221192b"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Population",
+      "estimate" : 1076.5,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "b400a828-0b72-4458-8e72-d6824c0aad1d"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Proportion",
+      "estimate" : 15.3,
+      "se" : 2.3,
+      "lowerCIB" : 13.0,
+      "upperCIB" : 17.6,
+      "flag" : "",
+      "_id" : "b296d1ac-e70f-416d-a83d-4756047376ae"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.8,
+      "se" : 3.2,
+      "lowerCIB" : -2.3,
+      "upperCIB" : 4.0,
+      "flag" : "",
+      "_id" : "f12d02e7-543b-4b1d-9cb4-0b9fc5d9734a"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Number",
+      "estimate" : 165.2,
+      "se" : 25.2,
+      "lowerCIB" : 140.0,
+      "upperCIB" : 190.4,
+      "flag" : "",
+      "_id" : "f8c02130-21b2-4279-b785-64b51c1fe86a"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 9.3,
+      "se" : 34.5,
+      "lowerCIB" : -25.2,
+      "upperCIB" : 43.8,
+      "flag" : "",
+      "_id" : "c0d0ad95-a432-48a8-a3f6-0f30763b848e"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Population",
+      "estimate" : 1078.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "4cec1fa3-95ee-405b-9ca2-3b9a9e4c203d"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Proportion",
+      "estimate" : 14.8,
+      "se" : 2.3,
+      "lowerCIB" : 12.5,
+      "upperCIB" : 17.1,
+      "flag" : "",
+      "_id" : "f61407a4-56d5-4531-8dfc-6479210d9b90"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.5,
+      "se" : 3.2,
+      "lowerCIB" : -3.7,
+      "upperCIB" : 2.7,
+      "flag" : "",
+      "_id" : "8f8fffc7-a8f8-4bdc-a166-c50c77f4e90f"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Number",
+      "estimate" : 160.4,
+      "se" : 25.3,
+      "lowerCIB" : 135.1,
+      "upperCIB" : 185.7,
+      "flag" : "",
+      "_id" : "a8d7ad90-d950-4d0f-aa91-a07147b8a0c7"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -4.8,
+      "se" : 35.2,
+      "lowerCIB" : -40.0,
+      "upperCIB" : 30.4,
+      "flag" : "",
+      "_id" : "1223be7c-1092-4b5f-af73-59d3460e24ee"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Population",
+      "estimate" : 1082.6,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "e86be54c-f108-42cb-9b7f-bf8d7a351756"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Proportion",
+      "estimate" : 16.1,
+      "se" : 2.2,
+      "lowerCIB" : 13.9,
+      "upperCIB" : 18.4,
+      "flag" : "",
+      "_id" : "36c80b1f-6eb8-4e64-b231-5a93730b6919"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 1.3,
+      "se" : 3.0,
+      "lowerCIB" : -1.7,
+      "upperCIB" : 4.3,
+      "flag" : "",
+      "_id" : "afbd59a8-e1ea-432b-b4b5-69e69cb06a9e"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Number",
+      "estimate" : 175.5,
+      "se" : 24.0,
+      "lowerCIB" : 151.5,
+      "upperCIB" : 199.5,
+      "flag" : "",
+      "_id" : "e2e92a65-3a30-403c-9aa9-5d92b9a515a9"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 15.1,
+      "se" : 32.8,
+      "lowerCIB" : -17.7,
+      "upperCIB" : 47.9,
+      "flag" : "",
+      "_id" : "61b27126-4408-4d26-ab91-efec21eeaf49"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Population",
+      "estimate" : 1086.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "8cee057b-c3d9-4c4c-ac64-fb69436651f9"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Proportion",
+      "estimate" : 16.3,
+      "se" : 2.6,
+      "lowerCIB" : 13.7,
+      "upperCIB" : 18.9,
+      "flag" : "",
+      "_id" : "c5e25fdf-3e32-434f-a08c-d245d598ff83"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.1,
+      "se" : 3.3,
+      "lowerCIB" : -3.2,
+      "upperCIB" : 3.5,
+      "flag" : "",
+      "_id" : "5b9b36d4-7f0e-4d91-8fad-4e9ea83489ce"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Number",
+      "estimate" : 176.8,
+      "se" : 28.7,
+      "lowerCIB" : 148.1,
+      "upperCIB" : 205.6,
+      "flag" : "",
+      "_id" : "2e2d2e76-b297-44ba-81c6-003ada2ee933"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 1.3,
+      "se" : 36.3,
+      "lowerCIB" : -35.0,
+      "upperCIB" : 37.6,
+      "flag" : "",
+      "_id" : "0d03f557-7ac2-400b-82b3-8b79e2a9ccdd"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Population",
+      "estimate" : 1085.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "c39299be-273c-4156-a8e3-49b1c7c76e46"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Proportion",
+      "estimate" : 15.6,
+      "se" : 2.5,
+      "lowerCIB" : 13.1,
+      "upperCIB" : 18.1,
+      "flag" : "",
+      "_id" : "04029ad7-2816-46d0-a618-f49797616654"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.7,
+      "se" : 3.4,
+      "lowerCIB" : -4.1,
+      "upperCIB" : 2.7,
+      "flag" : "",
+      "_id" : "7082e696-4a46-4994-afe8-23dd3367b4a3"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Number",
+      "estimate" : 169.0,
+      "se" : 27.0,
+      "lowerCIB" : 142.0,
+      "upperCIB" : 196.0,
+      "flag" : "",
+      "_id" : "15ffe0ca-eff9-48c1-8a02-9c20f002b05c"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -7.8,
+      "se" : 37.1,
+      "lowerCIB" : -44.9,
+      "upperCIB" : 29.3,
+      "flag" : "",
+      "_id" : "388e1e8b-972d-4588-886a-b238726fc4d8"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Population",
+      "estimate" : 1084.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "2f8d05c4-9af0-48be-8cbd-9bd1ec4d8b92"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Proportion",
+      "estimate" : 15.8,
+      "se" : 2.4,
+      "lowerCIB" : 13.5,
+      "upperCIB" : 18.2,
+      "flag" : "",
+      "_id" : "e66a4a55-b4a9-4a0e-94a6-0d6106175b23"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.3,
+      "se" : 3.6,
+      "lowerCIB" : -3.3,
+      "upperCIB" : 3.9,
+      "flag" : "",
+      "_id" : "706186a1-d722-40bb-9c7e-1c5886227eba"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Number",
+      "estimate" : 171.7,
+      "se" : 25.9,
+      "lowerCIB" : 145.8,
+      "upperCIB" : 197.6,
+      "flag" : "",
+      "_id" : "f39248de-c679-462b-89e1-c2328139f13f"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 2.7,
+      "se" : 39.1,
+      "lowerCIB" : -36.4,
+      "upperCIB" : 41.8,
+      "flag" : "",
+      "_id" : "77d4cb68-db41-4196-bf1d-b4acf470008c"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Population",
+      "estimate" : 1083.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "e1f57a5d-15e3-4e8e-9b1d-33be6578631a"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Proportion",
+      "estimate" : 15.5,
+      "se" : 1.9,
+      "lowerCIB" : 13.5,
+      "upperCIB" : 17.4,
+      "flag" : "",
+      "_id" : "aac568b3-d990-4941-8a56-45475b2fd6ec"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.4,
+      "se" : 3.2,
+      "lowerCIB" : -3.5,
+      "upperCIB" : 2.8,
+      "flag" : "",
+      "_id" : "8a8b48ad-7d52-4960-be5c-208a100775ec"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Number",
+      "estimate" : 168.2,
+      "se" : 21.2,
+      "lowerCIB" : 147.0,
+      "upperCIB" : 189.5,
+      "flag" : "",
+      "_id" : "656b6afa-9204-4804-ab26-7d22e4b54c0a"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -3.5,
+      "se" : 35.1,
+      "lowerCIB" : -38.6,
+      "upperCIB" : 31.6,
+      "flag" : "",
+      "_id" : "ec9c6edd-dab8-4df4-9b5b-45f24ef98a26"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Population",
+      "estimate" : 1087.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "e7a02458-a930-45b5-84ff-7b9709b0e856"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Proportion",
+      "estimate" : 16.2,
+      "se" : 2.3,
+      "lowerCIB" : 13.9,
+      "upperCIB" : 18.5,
+      "flag" : "",
+      "_id" : "f3555daa-9cda-4d49-baf1-b42b3907f8de"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.8,
+      "se" : 2.9,
+      "lowerCIB" : -2.1,
+      "upperCIB" : 3.7,
+      "flag" : "",
+      "_id" : "12c50573-6250-4fde-ab69-d1cdec23b6bc"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Number",
+      "estimate" : 177.6,
+      "se" : 25.2,
+      "lowerCIB" : 152.5,
+      "upperCIB" : 202.8,
+      "flag" : "",
+      "_id" : "9531c5e1-b001-4905-9abc-8dc178f8a0e0"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 9.4,
+      "se" : 31.8,
+      "lowerCIB" : -22.4,
+      "upperCIB" : 41.2,
+      "flag" : "",
+      "_id" : "7af68e9d-ee11-4243-b2e2-b21a4320ba45"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Population",
+      "estimate" : 1093.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "2bf554c2-c8e5-4e88-b742-81f484092be3"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Proportion",
+      "estimate" : 16.1,
+      "se" : 2.2,
+      "lowerCIB" : 13.9,
+      "upperCIB" : 18.4,
+      "flag" : "",
+      "_id" : "2acfe1a6-c1b2-4d69-beae-a092198b50d3"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.1,
+      "se" : 3.4,
+      "lowerCIB" : -3.5,
+      "upperCIB" : 3.2,
+      "flag" : "",
+      "_id" : "6c54a095-5afa-422b-8040-9392bf6fb8ee"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Number",
+      "estimate" : 178.0,
+      "se" : 24.4,
+      "lowerCIB" : 153.6,
+      "upperCIB" : 202.4,
+      "flag" : "",
+      "_id" : "59fad6bc-3917-4617-9d66-4d6e32757bee"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.4,
+      "se" : 36.7,
+      "lowerCIB" : -36.3,
+      "upperCIB" : 37.1,
+      "flag" : "",
+      "_id" : "5507482c-eaf8-48ec-abd6-54306626d7f0"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Population",
+      "estimate" : 1103.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "46c5ba7e-030e-4aa6-b797-93bd80ce813d"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Proportion",
+      "estimate" : 15.7,
+      "se" : 2.2,
+      "lowerCIB" : 13.5,
+      "upperCIB" : 17.8,
+      "flag" : "",
+      "_id" : "21bb7351-f5a9-4356-a6f1-a8330db09487"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.5,
+      "se" : 3.0,
+      "lowerCIB" : -3.5,
+      "upperCIB" : 2.5,
+      "flag" : "",
+      "_id" : "4f069f9d-c29c-408c-857d-16c6a607778c"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Number",
+      "estimate" : 174.3,
+      "se" : 24.6,
+      "lowerCIB" : 149.7,
+      "upperCIB" : 198.9,
+      "flag" : "",
+      "_id" : "430ba81f-9423-482d-8e20-bdb96c6a5840"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -3.7,
+      "se" : 33.4,
+      "lowerCIB" : -37.1,
+      "upperCIB" : 29.7,
+      "flag" : "",
+      "_id" : "01e13a0b-dab1-4543-9630-457da995bb73"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Population",
+      "estimate" : 1113.3,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "daabd0a8-ac62-4f06-ba6b-85f4bd6eed78"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Proportion",
+      "estimate" : 13.8,
+      "se" : 1.0,
+      "lowerCIB" : 12.8,
+      "upperCIB" : 14.7,
+      "flag" : "",
+      "_id" : "4119a474-4ed7-4029-8b8e-5dac03ed0a92"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 1.9,
+      "se" : 2.4,
+      "lowerCIB" : -4.3,
+      "upperCIB" : 0.5,
+      "flag" : "",
+      "_id" : "a8527343-3386-40bf-8688-8a52250624c9"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Number",
+      "estimate" : 156.1,
+      "se" : 10.8,
+      "lowerCIB" : 145.3,
+      "upperCIB" : 166.9,
+      "flag" : "",
+      "_id" : "868b23ed-3cba-40b8-97e4-f84fd37b85ef"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -18.3,
+      "se" : 27.5,
+      "lowerCIB" : -45.8,
+      "upperCIB" : 9.2,
+      "flag" : "",
+      "_id" : "aefaf183-08a0-43b4-87a4-f95daf31499b"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Population",
+      "estimate" : 1132.8,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "ed6a8103-fb84-4112-8d7d-1faf14ec67d2"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Proportion",
+      "estimate" : 13.2,
+      "se" : 1.2,
+      "lowerCIB" : 12.0,
+      "upperCIB" : 14.4,
+      "flag" : "",
+      "_id" : "f669fd49-439e-403b-a28f-0cd74c8df01e"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.5,
+      "se" : 1.6,
+      "lowerCIB" : -2.1,
+      "upperCIB" : 1.0,
+      "flag" : "",
+      "_id" : "1f80f415-9a35-4093-97db-425b7a2b0b14"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Number",
+      "estimate" : 151.4,
+      "se" : 13.9,
+      "lowerCIB" : 137.5,
+      "upperCIB" : 165.3,
+      "flag" : "",
+      "_id" : "6a16e643-b97d-4c21-a785-41688334311a"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -4.7,
+      "se" : 18.2,
+      "lowerCIB" : -22.9,
+      "upperCIB" : 13.5,
+      "flag" : "",
+      "_id" : "57bafaf4-b3f1-4a80-ba43-f9f3eb402a3a"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Population",
+      "estimate" : 1144.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "c8b4b191-5dff-4e25-ac54-98ef4b3bffdb"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Proportion",
+      "estimate" : 12.3,
+      "se" : 1.1,
+      "lowerCIB" : 11.2,
+      "upperCIB" : 13.3,
+      "flag" : "",
+      "_id" : "61a13260-0ea9-4a6a-ad46-822476110d68"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.0,
+      "se" : 1.6,
+      "lowerCIB" : -2.6,
+      "upperCIB" : 0.6,
+      "flag" : "",
+      "_id" : "8b776e5c-172b-4029-8192-14d690d54aeb"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Number",
+      "estimate" : 141.0,
+      "se" : 12.4,
+      "lowerCIB" : 128.6,
+      "upperCIB" : 153.3,
+      "flag" : "",
+      "_id" : "3d2e1e25-2ba9-4d3c-93cb-c42c34778dfb"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -10.4,
+      "se" : 18.3,
+      "lowerCIB" : -28.7,
+      "upperCIB" : 7.9,
+      "flag" : "",
+      "_id" : "fa6cf2a9-99f0-442d-8f80-cee3388f36a8"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Population",
+      "estimate" : 1149.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "88baff11-e22b-4d9f-970f-19c06e33a30d"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Proportion",
+      "estimate" : 12.5,
+      "se" : 1.6,
+      "lowerCIB" : 10.9,
+      "upperCIB" : 14.2,
+      "flag" : "",
+      "_id" : "963de4d2-162e-4a11-8ba8-ac3952de0d9c"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.3,
+      "se" : 1.9,
+      "lowerCIB" : -1.6,
+      "upperCIB" : 2.2,
+      "flag" : "",
+      "_id" : "a1cef025-36cb-4498-bdaf-33a56a42386f"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Number",
+      "estimate" : 144.2,
+      "se" : 18.7,
+      "lowerCIB" : 125.5,
+      "upperCIB" : 163.0,
+      "flag" : "",
+      "_id" : "117c692a-189c-435d-8c06-43c424874d1f"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 3.3,
+      "se" : 21.9,
+      "lowerCIB" : -18.6,
+      "upperCIB" : 25.1,
+      "flag" : "",
+      "_id" : "aa0c4723-10c5-4d7b-a52d-99d301728d92"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Population",
+      "estimate" : 1150.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "9f999c91-32d9-47fa-8c52-1c3db905215e"
+    } ],
+    "MEASC" : [ {
+      "year" : "2007",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "ab471fd7-e8f4-448b-9ade-296acd2fb13f"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "6b3b4d92-7849-4f45-9a75-d96a82592338"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "e4df7fed-2e16-40ec-8ed4-2a73b203e1c0"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "e98d2ae4-b3b7-496c-b8fa-3f0db93e71db"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "5990145a-7d0a-4cec-a866-fae705c06ad4"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "3f051dc5-a9d6-4386-8631-7f60ca5698eb"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "a667ae35-69d1-4884-825a-368e43ca0601"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "b0fd7b9d-8106-40e7-aa5a-4c58017171f6"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "87f42f6d-b881-4e7b-b27e-7602de62e486"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "8d8f010b-0432-47b5-8997-078f4ad34ac5"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "ae5dea8d-7889-484f-8c07-7075a06203d2"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "469e6816-e676-4e53-9d04-387d56c76322"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "1808f123-b81f-4593-b703-09009c111893"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "399d4fbe-99fb-46af-86e9-7cee433180df"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "a081f302-3f59-48e4-9355-116ae16d5c07"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "b2e574cf-4762-48fb-bfb6-355759bd936c"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "a2e4d641-e324-4786-b676-b9102528ddbf"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "09012176-5b88-4d97-b605-503f6a8e4c98"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "ded49a3b-8318-4734-a9ef-6c18a8bc202f"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "37a9bcec-10db-443a-934d-c2d9effd8be5"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "b05abd1b-04f9-41f5-816e-ff0f8c39d80c"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "4c39021f-4e7e-4a59-a4b0-2726a3920ad6"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "4e4785c6-921d-479e-b44c-2b1c4417fc96"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "a640283a-810d-4a7a-a2bb-a8bb997bccd4"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "27acddc6-0dc2-4138-afeb-1ff63ce05507"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "048e071d-4a03-4a5c-b601-dd60232e594f"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "04e24ee8-e49e-47b1-9894-7ec6889afe82"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "0fbd79ac-e546-4239-b871-d4e33a660614"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "67c5b5b7-a798-42b9-b317-b1cb08c1e195"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "1afc555a-2897-4b78-9d9c-e6f845d5a7be"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Proportion",
+      "estimate" : 18.1,
+      "se" : 4.3,
+      "lowerCIB" : 13.8,
+      "upperCIB" : 22.3,
+      "flag" : "",
+      "_id" : "6bf0bedb-0ac3-4351-9a5f-fac2500d2a67"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "65dc3435-a38d-4e92-adf0-48816448b232"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Number",
+      "estimate" : 195.8,
+      "se" : 46.2,
+      "lowerCIB" : 149.6,
+      "upperCIB" : 242.0,
+      "flag" : "",
+      "_id" : "e775c199-f8a7-4364-bb0e-d49f6e622776"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "d09183bc-a586-49ef-b9e6-1b9bd9598399"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Population",
+      "estimate" : 1084.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "c87a6b7e-0d5d-4214-88c2-16d59bee0651"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Proportion",
+      "estimate" : 16.0,
+      "se" : 3.8,
+      "lowerCIB" : 12.1,
+      "upperCIB" : 19.8,
+      "flag" : "",
+      "_id" : "f03de734-8473-4b3d-9860-39b92f12260e"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -2.1,
+      "se" : 6.0,
+      "lowerCIB" : -8.1,
+      "upperCIB" : 3.9,
+      "flag" : "",
+      "_id" : "3f32c56d-9a07-492a-869f-4336fd4d5ec8"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Number",
+      "estimate" : 172.9,
+      "se" : 41.4,
+      "lowerCIB" : 131.5,
+      "upperCIB" : 214.4,
+      "flag" : "",
+      "_id" : "ab7d575c-61b2-42d8-bc2b-d100983bdf10"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -22.9,
+      "se" : 65.2,
+      "lowerCIB" : -88.1,
+      "upperCIB" : 42.3,
+      "flag" : "",
+      "_id" : "ab4df938-64d5-49aa-afc0-934c3a07e16d"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Population",
+      "estimate" : 1083.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "1040f49e-8c97-4f36-97e4-fdcf90d35c57"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Proportion",
+      "estimate" : 17.5,
+      "se" : 4.3,
+      "lowerCIB" : 13.2,
+      "upperCIB" : 21.8,
+      "flag" : "",
+      "_id" : "bd45ff32-fe16-4f8e-b3c4-26850b8806c6"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 1.6,
+      "se" : 6.1,
+      "lowerCIB" : -4.6,
+      "upperCIB" : 7.7,
+      "flag" : "",
+      "_id" : "79efe0f2-d1d3-41cf-90b2-dc83df9455c0"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Number",
+      "estimate" : 190.4,
+      "se" : 46.3,
+      "lowerCIB" : 144.1,
+      "upperCIB" : 236.7,
+      "flag" : "",
+      "_id" : "1cb18bdb-2c01-4e98-b786-132f2db535f7"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 17.5,
+      "se" : 66.0,
+      "lowerCIB" : -48.5,
+      "upperCIB" : 83.5,
+      "flag" : "",
+      "_id" : "bbe05839-2036-4eb3-a695-2d2b8dc54671"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Population",
+      "estimate" : 1087.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "a262b491-5741-4a40-85e5-df8d43eb58a5"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Proportion",
+      "estimate" : 12.1,
+      "se" : 3.6,
+      "lowerCIB" : 8.5,
+      "upperCIB" : 15.7,
+      "flag" : "",
+      "_id" : "ebaac4f3-9f53-4054-ab5d-138fcde310cf"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -5.4,
+      "se" : 5.8,
+      "lowerCIB" : -11.3,
+      "upperCIB" : 0.4,
+      "flag" : "",
+      "_id" : "39189bc4-6572-4578-a455-4bca8563937f"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Number",
+      "estimate" : 132.3,
+      "se" : 39.2,
+      "lowerCIB" : 93.2,
+      "upperCIB" : 171.5,
+      "flag" : "",
+      "_id" : "c6a30531-f752-49cd-bb80-73d6d5de72b7"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -58.1,
+      "se" : 63.5,
+      "lowerCIB" : -121.6,
+      "upperCIB" : 5.4,
+      "flag" : "",
+      "_id" : "d1448d21-8545-4264-b7c8-b5b5e75285a0"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Population",
+      "estimate" : 1093.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "756419aa-08f0-48e4-b42c-c9e7f9de3918"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Proportion",
+      "estimate" : 12.7,
+      "se" : 2.4,
+      "lowerCIB" : 10.2,
+      "upperCIB" : 15.1,
+      "flag" : "",
+      "_id" : "3aeab9cf-9dc5-4642-913f-607da246f063"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.5,
+      "se" : 4.6,
+      "lowerCIB" : -4.1,
+      "upperCIB" : 5.2,
+      "flag" : "",
+      "_id" : "f397660b-9efb-43db-9f0b-9d2a24b24cbc"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Number",
+      "estimate" : 139.6,
+      "se" : 26.5,
+      "lowerCIB" : 113.1,
+      "upperCIB" : 166.1,
+      "flag" : "",
+      "_id" : "9b24a676-0251-4237-b37a-2bcd2ffff27a"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 7.3,
+      "se" : 50.3,
+      "lowerCIB" : -43.0,
+      "upperCIB" : 57.6,
+      "flag" : "",
+      "_id" : "5c624e0e-fd44-418b-a934-1482372b8f59"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Population",
+      "estimate" : 1103.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "3302e84d-a53b-49f0-b9b3-b03757bf2012"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Proportion",
+      "estimate" : 13.3,
+      "se" : 2.3,
+      "lowerCIB" : 11.0,
+      "upperCIB" : 15.5,
+      "flag" : "",
+      "_id" : "7ed20726-6cc5-44bb-89b2-37fb9e0c3263"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.6,
+      "se" : 3.5,
+      "lowerCIB" : -2.9,
+      "upperCIB" : 4.1,
+      "flag" : "",
+      "_id" : "1999143a-4d10-418e-a910-a0049fb0ecc2"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Number",
+      "estimate" : 147.6,
+      "se" : 25.1,
+      "lowerCIB" : 122.4,
+      "upperCIB" : 172.7,
+      "flag" : "",
+      "_id" : "b285d5d1-aceb-4feb-907d-53a9202e9f2d"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 8.0,
+      "se" : 38.2,
+      "lowerCIB" : -30.2,
+      "upperCIB" : 46.2,
+      "flag" : "",
+      "_id" : "dfbbf0f2-022a-43c1-8b65-9c9f9a6e3f6e"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Population",
+      "estimate" : 1113.3,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "e01b3b93-63a3-4ece-b9ed-cc2a2d3aa556"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Proportion",
+      "estimate" : 13.2,
+      "se" : 1.1,
+      "lowerCIB" : 12.1,
+      "upperCIB" : 14.3,
+      "flag" : "",
+      "_id" : "9d416616-aaff-4635-818c-4667f9daba1b"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.1,
+      "se" : 2.6,
+      "lowerCIB" : -2.6,
+      "upperCIB" : 2.5,
+      "flag" : "",
+      "_id" : "aff97ee5-5cd1-47fc-be78-d41ec9a2afa5"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Number",
+      "estimate" : 149.4,
+      "se" : 12.2,
+      "lowerCIB" : 137.2,
+      "upperCIB" : 161.6,
+      "flag" : "",
+      "_id" : "79b43099-7bae-428e-8bf0-85f30cf05a41"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 1.8,
+      "se" : 28.7,
+      "lowerCIB" : -26.9,
+      "upperCIB" : 30.5,
+      "flag" : "",
+      "_id" : "ad769ca1-e0d5-4017-a314-43663b9b63ca"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Population",
+      "estimate" : 1132.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "57ce195c-465e-4016-aa4c-710fbc66278c"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Proportion",
+      "estimate" : 11.5,
+      "se" : 1.1,
+      "lowerCIB" : 10.5,
+      "upperCIB" : 12.6,
+      "flag" : "",
+      "_id" : "0b702d50-8c2b-4a0c-901b-5cfa1a970a9b"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.7,
+      "se" : 1.5,
+      "lowerCIB" : -3.1,
+      "upperCIB" : -0.2,
+      "flag" : "",
+      "_id" : "80043a0b-cafd-4ee5-a27d-4878fd1d0ed9"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Number",
+      "estimate" : 131.7,
+      "se" : 12.2,
+      "lowerCIB" : 119.5,
+      "upperCIB" : 143.9,
+      "flag" : "",
+      "_id" : "6ff31739-ebec-4768-b26a-03a69e121acd"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -17.7,
+      "se" : 16.7,
+      "lowerCIB" : -34.5,
+      "upperCIB" : -1.0,
+      "flag" : "",
+      "_id" : "278799d8-9a4d-4de3-a8cf-19d00cbe6f96"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Population",
+      "estimate" : 1142.3,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "069ffb17-b501-410a-bd17-2de7dd70b9dc"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Proportion",
+      "estimate" : 11.0,
+      "se" : 1.0,
+      "lowerCIB" : 10.0,
+      "upperCIB" : 11.9,
+      "flag" : "",
+      "_id" : "0c5b366b-fa53-4a52-add6-93a0bf8a847c"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.6,
+      "se" : 1.4,
+      "lowerCIB" : -1.9,
+      "upperCIB" : 0.8,
+      "flag" : "",
+      "_id" : "1cff3fb9-d23a-4816-a0c0-4b4b7701b95b"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Number",
+      "estimate" : 125.7,
+      "se" : 11.1,
+      "lowerCIB" : 114.6,
+      "upperCIB" : 136.8,
+      "flag" : "",
+      "_id" : "556516b8-0ccf-4894-959d-dfedf5092124"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -6.0,
+      "se" : 15.7,
+      "lowerCIB" : -21.7,
+      "upperCIB" : 9.7,
+      "flag" : "",
+      "_id" : "ae3af978-7b6d-4b06-82a1-8ccb5b47b0da"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Population",
+      "estimate" : 1146.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "f0a89ec3-2cd3-41cc-a80b-9e47fe9a94cd"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Proportion",
+      "estimate" : 10.3,
+      "se" : 1.6,
+      "lowerCIB" : 8.8,
+      "upperCIB" : 11.9,
+      "flag" : "",
+      "_id" : "50a72005-840b-4be7-92a5-dcf54a3b8338"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.6,
+      "se" : 1.8,
+      "lowerCIB" : -2.5,
+      "upperCIB" : 1.2,
+      "flag" : "",
+      "_id" : "a1d7950f-5c1a-4302-b10d-259e1a73836a"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Number",
+      "estimate" : 118.9,
+      "se" : 18.2,
+      "lowerCIB" : 100.7,
+      "upperCIB" : 137.0,
+      "flag" : "",
+      "_id" : "632b43b1-e2ed-458a-839c-da10be1d9522"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -6.8,
+      "se" : 21.1,
+      "lowerCIB" : -27.9,
+      "upperCIB" : 14.3,
+      "flag" : "",
+      "_id" : "0c345a9c-07dc-46f7-8568-01fd62575fa4"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Population",
+      "estimate" : 1149.6,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "0a28c157-523d-4b93-9da5-aa6ff1368a4d"
+    } ],
+    "MEASB" : [ {
+      "year" : "2007",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "1b24a271-8090-4ba7-bd5d-a51b443154e3"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "2ef00f17-a23f-444e-ba61-ca6f4f9d3a4a"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "cb3dbed0-3022-4dfa-8a40-d9e19e6dc87d"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "13a777f2-9222-468d-846e-72ed06dab2bc"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "df4b7064-7701-4941-b422-32c757379c75"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "4c666498-39da-4b57-b698-c59d681b742c"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "b563a9b4-5265-4e38-9cbf-c731f386ea5c"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "798d167a-9b40-4d0d-9ea8-29bdbfa45850"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "cfbd378c-3a3a-4bbe-be5c-309e78a5a03e"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "98935d78-179f-4fb9-8366-666f602c1979"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Proportion",
+      "estimate" : 30.5,
+      "se" : 3.0,
+      "lowerCIB" : 27.5,
+      "upperCIB" : 33.4,
+      "flag" : "",
+      "_id" : "77877c44-36fd-4ddc-b9ca-591d4cbb0bb0"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "9e7e2d91-d0e1-4d3c-bd07-bccabba44503"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Number",
+      "estimate" : 328.6,
+      "se" : 32.1,
+      "lowerCIB" : 296.5,
+      "upperCIB" : 360.7,
+      "flag" : "",
+      "_id" : "f114f730-df50-4ce7-b8c9-e321ee1d2efb"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "22d59266-a17c-4bcf-b253-79b78f28ac36"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Population",
+      "estimate" : 1078.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "8855dab0-0dd7-43a2-94bd-0e243a232137"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Proportion",
+      "estimate" : 26.9,
+      "se" : 3.1,
+      "lowerCIB" : 23.7,
+      "upperCIB" : 30.0,
+      "flag" : "",
+      "_id" : "aaab511c-8e83-46a7-9274-ab8004f4d81a"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -3.6,
+      "se" : 4.5,
+      "lowerCIB" : -8.1,
+      "upperCIB" : 0.9,
+      "flag" : "",
+      "_id" : "a9d22f50-2df3-49b8-a197-ac610ff8a36c"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Number",
+      "estimate" : 291.1,
+      "se" : 33.6,
+      "lowerCIB" : 257.5,
+      "upperCIB" : 324.6,
+      "flag" : "",
+      "_id" : "983696ae-82d8-4cf1-b675-34a19d260918"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -37.5,
+      "se" : 48.0,
+      "lowerCIB" : -85.5,
+      "upperCIB" : 10.5,
+      "flag" : "",
+      "_id" : "498bfa84-ea57-4f22-a76c-db3e0cd43f98"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Population",
+      "estimate" : 1082.6,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "901d380f-6d23-40a0-82b6-1b65e603b694"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Proportion",
+      "estimate" : 30.9,
+      "se" : 3.4,
+      "lowerCIB" : 27.5,
+      "upperCIB" : 34.2,
+      "flag" : "",
+      "_id" : "c6478289-f2d0-42ba-b337-3327be7f652c"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 4.0,
+      "se" : 4.6,
+      "lowerCIB" : -0.6,
+      "upperCIB" : 8.6,
+      "flag" : "",
+      "_id" : "06101739-563f-4c9d-89e3-d6b6f27e3bf1"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Number",
+      "estimate" : 335.3,
+      "se" : 35.7,
+      "lowerCIB" : 299.7,
+      "upperCIB" : 371.0,
+      "flag" : "",
+      "_id" : "023e96e7-8b79-4507-a322-40aaca532686"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 44.2,
+      "se" : 49.0,
+      "lowerCIB" : -4.8,
+      "upperCIB" : 93.2,
+      "flag" : "",
+      "_id" : "eb0eb99b-59e5-4bde-8d8e-7c20b0abf34b"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Population",
+      "estimate" : 1086.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "55451345-d5fd-430f-a778-37a0a1a84d8c"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Proportion",
+      "estimate" : 29.1,
+      "se" : 2.7,
+      "lowerCIB" : 26.3,
+      "upperCIB" : 31.8,
+      "flag" : "",
+      "_id" : "7c057573-9a8d-420c-8466-3502920f5d05"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.8,
+      "se" : 4.4,
+      "lowerCIB" : -6.2,
+      "upperCIB" : 2.6,
+      "flag" : "",
+      "_id" : "2456e3e3-d138-4cf9-bba1-e60ef78d5709"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Number",
+      "estimate" : 315.6,
+      "se" : 30.0,
+      "lowerCIB" : 285.6,
+      "upperCIB" : 345.7,
+      "flag" : "",
+      "_id" : "67d74464-5ad8-48a4-ac0e-1e0101b19df2"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -19.7,
+      "se" : 47.4,
+      "lowerCIB" : -67.1,
+      "upperCIB" : 27.7,
+      "flag" : "",
+      "_id" : "d4968ade-4d5e-4a27-8507-5fe7fe97da55"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Population",
+      "estimate" : 1085.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "85d9eea4-fa47-400c-97ad-785120609002"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Proportion",
+      "estimate" : 26.9,
+      "se" : 2.6,
+      "lowerCIB" : 24.3,
+      "upperCIB" : 29.5,
+      "flag" : "",
+      "_id" : "d4511c22-eac3-42a2-a9ed-aeda79eb188e"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -2.1,
+      "se" : 3.7,
+      "lowerCIB" : -5.8,
+      "upperCIB" : 1.6,
+      "flag" : "",
+      "_id" : "9e1814e7-da20-46b6-9109-c2e9272d32b6"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Number",
+      "estimate" : 292.3,
+      "se" : 28.3,
+      "lowerCIB" : 264.0,
+      "upperCIB" : 320.5,
+      "flag" : "",
+      "_id" : "95665dba-0a18-408e-99f5-198b76c4a7f6"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -23.3,
+      "se" : 40.1,
+      "lowerCIB" : -63.4,
+      "upperCIB" : 16.8,
+      "flag" : "",
+      "_id" : "ece8d961-b907-4f07-a38d-2a81880beab6"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Population",
+      "estimate" : 1084.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "df5b7a48-e918-471c-8b3e-e6f9d4a05b46"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Proportion",
+      "estimate" : 27.3,
+      "se" : 2.9,
+      "lowerCIB" : 24.4,
+      "upperCIB" : 30.2,
+      "flag" : "",
+      "_id" : "6b76421c-ee15-43fb-8f6f-bb269ee2f798"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.4,
+      "se" : 4.0,
+      "lowerCIB" : -3.6,
+      "upperCIB" : 4.4,
+      "flag" : "",
+      "_id" : "fb6f6b95-9b2d-4265-9555-6e3d0bfe60f8"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Number",
+      "estimate" : 295.9,
+      "se" : 31.0,
+      "lowerCIB" : 264.9,
+      "upperCIB" : 326.9,
+      "flag" : "",
+      "_id" : "429b63d2-1a34-4ba1-8389-1d7e8806772a"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 3.6,
+      "se" : 43.3,
+      "lowerCIB" : -39.7,
+      "upperCIB" : 46.9,
+      "flag" : "",
+      "_id" : "795e2f7b-db78-45d1-9be5-31ef5bac553c"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Population",
+      "estimate" : 1083.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "687ddbc6-581b-4329-bc25-afe3392f815e"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Proportion",
+      "estimate" : 27.2,
+      "se" : 2.9,
+      "lowerCIB" : 24.3,
+      "upperCIB" : 30.0,
+      "flag" : "",
+      "_id" : "e03e3ac1-65f6-4145-b163-84ee006cfddd"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.1,
+      "se" : 3.8,
+      "lowerCIB" : -3.9,
+      "upperCIB" : 3.7,
+      "flag" : "",
+      "_id" : "6e76ade8-0e64-4acf-836b-5cc919ec3640"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Number",
+      "estimate" : 295.6,
+      "se" : 30.1,
+      "lowerCIB" : 265.5,
+      "upperCIB" : 325.7,
+      "flag" : "",
+      "_id" : "d7909a51-b247-402d-a040-3a9a5c7b098b"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -0.3,
+      "se" : 41.4,
+      "lowerCIB" : -41.7,
+      "upperCIB" : 41.1,
+      "flag" : "",
+      "_id" : "96dcd072-fa72-4644-8e7f-80e8d1e881bf"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Population",
+      "estimate" : 1087.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "7200f5ef-31cb-4e71-9778-871d758ccec5"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Proportion",
+      "estimate" : 24.3,
+      "se" : 2.3,
+      "lowerCIB" : 21.9,
+      "upperCIB" : 26.6,
+      "flag" : "",
+      "_id" : "1d2a9cdd-e902-41a2-9c19-d4a93141dab9"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -2.9,
+      "se" : 3.5,
+      "lowerCIB" : -6.4,
+      "upperCIB" : 0.6,
+      "flag" : "",
+      "_id" : "d61e01f4-3f5e-4a20-bbc5-e18fd8421982"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Number",
+      "estimate" : 265.4,
+      "se" : 25.8,
+      "lowerCIB" : 239.6,
+      "upperCIB" : 291.2,
+      "flag" : "",
+      "_id" : "9f3b5b65-399c-4f90-89a0-47fa0c6fc176"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -30.2,
+      "se" : 37.8,
+      "lowerCIB" : -68.0,
+      "upperCIB" : 7.6,
+      "flag" : "",
+      "_id" : "89967865-a93a-4f38-bff3-b4e5d76d38cc"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Population",
+      "estimate" : 1093.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "c5ee05ae-5c7c-4775-b560-ec263178dd0c"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Proportion",
+      "estimate" : 22.4,
+      "se" : 2.4,
+      "lowerCIB" : 20.0,
+      "upperCIB" : 24.9,
+      "flag" : "",
+      "_id" : "96d37519-7893-40f9-b34d-a044764b4087"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.8,
+      "se" : 3.3,
+      "lowerCIB" : -5.1,
+      "upperCIB" : 1.5,
+      "flag" : "",
+      "_id" : "6fe9619b-4e9d-4059-aaff-3db3be188398"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Number",
+      "estimate" : 247.5,
+      "se" : 26.4,
+      "lowerCIB" : 221.1,
+      "upperCIB" : 273.9,
+      "flag" : "",
+      "_id" : "fdae7617-8621-4505-934c-fa3755fb0bf6"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -17.9,
+      "se" : 36.1,
+      "lowerCIB" : -54.0,
+      "upperCIB" : 18.2,
+      "flag" : "",
+      "_id" : "79d87977-26a2-45bc-b227-1045d34334be"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Population",
+      "estimate" : 1103.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "8a0c9bc7-c80b-4b8d-92eb-2285afdab701"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Proportion",
+      "estimate" : 22.8,
+      "se" : 1.9,
+      "lowerCIB" : 20.9,
+      "upperCIB" : 24.7,
+      "flag" : "",
+      "_id" : "eb89b5de-f361-492a-bec7-7228076e4ecd"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.4,
+      "se" : 2.8,
+      "lowerCIB" : -2.4,
+      "upperCIB" : 3.2,
+      "flag" : "",
+      "_id" : "0b3aa7fa-b349-4e91-b215-39b463f08644"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Number",
+      "estimate" : 253.8,
+      "se" : 21.6,
+      "lowerCIB" : 232.3,
+      "upperCIB" : 275.4,
+      "flag" : "",
+      "_id" : "1245dd65-e6b4-404d-a299-55734897507c"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 6.3,
+      "se" : 31.0,
+      "lowerCIB" : -24.7,
+      "upperCIB" : 37.3,
+      "flag" : "",
+      "_id" : "2ea92d81-0611-4539-b77f-48b3d3d3828b"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Population",
+      "estimate" : 1113.3,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "e6bf0ac8-d558-4a27-a6cd-1631996c0d30"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Proportion",
+      "estimate" : 18.3,
+      "se" : 1.1,
+      "lowerCIB" : 17.2,
+      "upperCIB" : 19.5,
+      "flag" : "",
+      "_id" : "8e633dfd-d310-44e4-82a3-b41b4d70564a"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -4.5,
+      "se" : 2.4,
+      "lowerCIB" : -6.9,
+      "upperCIB" : -2.0,
+      "flag" : "",
+      "_id" : "2bbfaa17-ed2f-469f-9800-8af6d20e85eb"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Number",
+      "estimate" : 207.7,
+      "se" : 12.9,
+      "lowerCIB" : 194.9,
+      "upperCIB" : 220.6,
+      "flag" : "",
+      "_id" : "3fdca71d-4fa2-45bb-b3a9-0f8b49ac7615"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -46.1,
+      "se" : 27.4,
+      "lowerCIB" : -73.5,
+      "upperCIB" : -18.7,
+      "flag" : "",
+      "_id" : "d408e932-f0d8-422d-8033-8d05d9991f6d"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Population",
+      "estimate" : 1132.8,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "56e4fc26-757b-4396-b9eb-ccd42aff2b94"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Proportion",
+      "estimate" : 17.8,
+      "se" : 1.3,
+      "lowerCIB" : 16.5,
+      "upperCIB" : 19.1,
+      "flag" : "",
+      "_id" : "626b7876-e137-49b5-82ad-81a13ae9dcca"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.6,
+      "se" : 1.7,
+      "lowerCIB" : -2.3,
+      "upperCIB" : 1.2,
+      "flag" : "",
+      "_id" : "1dd28303-c267-4b67-9820-b21efc315f39"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Number",
+      "estimate" : 203.3,
+      "se" : 15.0,
+      "lowerCIB" : 188.3,
+      "upperCIB" : 218.4,
+      "flag" : "",
+      "_id" : "1c65172b-07cc-490e-b38c-b9d7768a3fcb"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -4.4,
+      "se" : 19.9,
+      "lowerCIB" : -24.3,
+      "upperCIB" : 15.5,
+      "flag" : "",
+      "_id" : "b8efe2ce-def9-4303-a1b2-5f7c2f6f9fd7"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Population",
+      "estimate" : 1144.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "e7760c85-984e-4f63-bf44-fcf1b37cb36f"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Proportion",
+      "estimate" : 15.0,
+      "se" : 1.2,
+      "lowerCIB" : 13.8,
+      "upperCIB" : 16.1,
+      "flag" : "",
+      "_id" : "872a7ef6-810f-418a-9761-af392dc223a7"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -2.8,
+      "se" : 1.7,
+      "lowerCIB" : -4.5,
+      "upperCIB" : -1.1,
+      "flag" : "",
+      "_id" : "30aa3a9f-aa9f-4d6e-a51d-50910f8fa9b9"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Number",
+      "estimate" : 172.0,
+      "se" : 13.3,
+      "lowerCIB" : 158.7,
+      "upperCIB" : 185.3,
+      "flag" : "",
+      "_id" : "69561b9d-5b2b-47a3-95ee-9284a5a46107"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -31.4,
+      "se" : 19.6,
+      "lowerCIB" : -51.0,
+      "upperCIB" : -11.8,
+      "flag" : "",
+      "_id" : "ae151b8c-a9eb-43cd-b2c8-6f2a7d4ce9b1"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Population",
+      "estimate" : 1149.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "1a6940ea-5311-456c-a8b1-2fc8ab8cc3ee"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Proportion",
+      "estimate" : 15.4,
+      "se" : 1.9,
+      "lowerCIB" : 13.4,
+      "upperCIB" : 17.3,
+      "flag" : "",
+      "_id" : "60623c86-1ac5-491f-b5d4-54745231ddbf"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.4,
+      "se" : 2.2,
+      "lowerCIB" : -1.8,
+      "upperCIB" : 2.6,
+      "flag" : "",
+      "_id" : "b0847a2c-4c79-4967-8886-e3182fb0db12"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Number",
+      "estimate" : 176.8,
+      "se" : 22.2,
+      "lowerCIB" : 154.6,
+      "upperCIB" : 198.9,
+      "flag" : "",
+      "_id" : "fe3e63c9-9e2c-4350-89db-1c5d8cc9822b"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 4.8,
+      "se" : 25.8,
+      "lowerCIB" : -21.0,
+      "upperCIB" : 30.6,
+      "flag" : "",
+      "_id" : "4032112f-5bc0-4da1-bf95-8713b2782966"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Population",
+      "estimate" : 1150.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "12f22f87-f77f-4a45-a4e0-89bbff79c2c0"
+    } ],
+    "MEASE" : [ {
+      "year" : "2007",
+      "estCode" : "_Proportion",
+      "estimate" : 23.9,
+      "se" : 1.5,
+      "lowerCIB" : 22.4,
+      "upperCIB" : 25.5,
+      "flag" : "",
+      "_id" : "33d98511-42e6-4959-a430-a4e36376316e"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "e5b09e26-1cdb-4de7-9174-3014ec5b50d5"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Number",
+      "estimate" : 256.8,
+      "se" : 16.5,
+      "lowerCIB" : 240.3,
+      "upperCIB" : 273.3,
+      "flag" : "",
+      "_id" : "506aac7e-02e1-4494-8476-95ea1a567b8e"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "0025ee24-e230-42ea-83a2-e24e0e040cec"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Population",
+      "estimate" : 1073.4,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "4a43dafc-6081-4c86-a511-4d755d038172"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Proportion",
+      "estimate" : 23.4,
+      "se" : 1.3,
+      "lowerCIB" : 22.0,
+      "upperCIB" : 24.7,
+      "flag" : "",
+      "_id" : "c205b289-d984-4147-97ab-1ae180d49ee1"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.5,
+      "se" : 2.0,
+      "lowerCIB" : -2.5,
+      "upperCIB" : 1.5,
+      "flag" : "",
+      "_id" : "3fe7b2dc-54be-477e-85ce-efcc1cb80667"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Number",
+      "estimate" : 251.8,
+      "se" : 14.5,
+      "lowerCIB" : 237.3,
+      "upperCIB" : 266.3,
+      "flag" : "",
+      "_id" : "6fdb2fb0-b1a2-4b98-9083-7c3e4c8630fc"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -5.0,
+      "se" : 21.4,
+      "lowerCIB" : -26.4,
+      "upperCIB" : 16.4,
+      "flag" : "",
+      "_id" : "fe79c890-b8ba-4052-a01a-282639edae93"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Population",
+      "estimate" : 1076.5,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "7183b731-d05e-4646-8a27-7503fc9b8380"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Proportion",
+      "estimate" : 22.2,
+      "se" : 1.3,
+      "lowerCIB" : 20.9,
+      "upperCIB" : 23.5,
+      "flag" : "",
+      "_id" : "24883e89-31c9-4558-bd4d-acef8744cc49"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.2,
+      "se" : 1.8,
+      "lowerCIB" : -3.0,
+      "upperCIB" : 0.6,
+      "flag" : "",
+      "_id" : "1bd549cf-0cd9-4a8b-b24b-0faeaaf270fe"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Number",
+      "estimate" : 239.5,
+      "se" : 14.2,
+      "lowerCIB" : 225.4,
+      "upperCIB" : 253.7,
+      "flag" : "",
+      "_id" : "661def94-34a0-4fd5-8f4b-565f054e4d95"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -12.3,
+      "se" : 19.4,
+      "lowerCIB" : -31.7,
+      "upperCIB" : 7.1,
+      "flag" : "",
+      "_id" : "c79e5c94-d83d-4b34-952b-fe445c5ae2b8"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Population",
+      "estimate" : 1078.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "edb009a6-bea1-4253-bedb-b4f8b0ba6d97"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Proportion",
+      "estimate" : 22.4,
+      "se" : 1.5,
+      "lowerCIB" : 20.9,
+      "upperCIB" : 23.9,
+      "flag" : "",
+      "_id" : "f98a7799-dd18-4062-ba35-202f2860fdf7"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.2,
+      "se" : 1.9,
+      "lowerCIB" : -1.7,
+      "upperCIB" : 2.1,
+      "flag" : "",
+      "_id" : "bb8e6edd-0887-45b6-bc2c-46b9e383d799"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Number",
+      "estimate" : 242.4,
+      "se" : 16.3,
+      "lowerCIB" : 226.2,
+      "upperCIB" : 258.7,
+      "flag" : "",
+      "_id" : "00ecfc5d-fda7-439f-8392-e569044f3710"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 2.9,
+      "se" : 20.5,
+      "lowerCIB" : -17.6,
+      "upperCIB" : 23.4,
+      "flag" : "",
+      "_id" : "d5251fe1-3065-41e1-896b-1be3367249f0"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Population",
+      "estimate" : 1082.6,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "c5bafb41-2140-4b4f-a42a-63f7648af742"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Proportion",
+      "estimate" : 23.3,
+      "se" : 1.5,
+      "lowerCIB" : 21.8,
+      "upperCIB" : 24.8,
+      "flag" : "",
+      "_id" : "d60d12ef-57a9-4f25-8564-577716649e40"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.9,
+      "se" : 2.0,
+      "lowerCIB" : -1.0,
+      "upperCIB" : 2.9,
+      "flag" : "",
+      "_id" : "45a5b8a8-2f56-4a15-b6e4-8200f6b77aca"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Number",
+      "estimate" : 253.4,
+      "se" : 16.2,
+      "lowerCIB" : 237.2,
+      "upperCIB" : 269.7,
+      "flag" : "",
+      "_id" : "4200f6d0-963e-4c8b-8660-953a369281a7"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 11.0,
+      "se" : 21.3,
+      "lowerCIB" : -10.3,
+      "upperCIB" : 32.3,
+      "flag" : "",
+      "_id" : "5d06a631-900b-4558-84e7-583c82dc184d"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Population",
+      "estimate" : 1086.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "bdf584ef-77d3-4d77-bd54-dc60ff820de9"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Proportion",
+      "estimate" : 23.3,
+      "se" : 1.3,
+      "lowerCIB" : 22.0,
+      "upperCIB" : 24.6,
+      "flag" : "",
+      "_id" : "1c8a7b68-3ab7-4b08-802b-e488bad26a0c"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 2.2,
+      "lowerCIB" : -2.2,
+      "upperCIB" : 2.1,
+      "flag" : "",
+      "_id" : "a971debc-b467-4582-b604-6027afcc17b1"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Number",
+      "estimate" : 252.8,
+      "se" : 13.9,
+      "lowerCIB" : 238.9,
+      "upperCIB" : 266.7,
+      "flag" : "",
+      "_id" : "ab6a96e9-dd4c-4f89-97bf-44b001c98914"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -0.6,
+      "se" : 23.5,
+      "lowerCIB" : -24.1,
+      "upperCIB" : 22.9,
+      "flag" : "",
+      "_id" : "14cfa20c-f13c-424b-b548-918aae9a1685"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Population",
+      "estimate" : 1085.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "aa2b05cd-d049-441f-a8f3-541cc7506a5e"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Proportion",
+      "estimate" : 23.6,
+      "se" : 1.4,
+      "lowerCIB" : 22.2,
+      "upperCIB" : 24.9,
+      "flag" : "",
+      "_id" : "879528b6-7055-4c0e-884b-e51a55cbcfd1"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.3,
+      "se" : 1.7,
+      "lowerCIB" : -1.5,
+      "upperCIB" : 2.0,
+      "flag" : "",
+      "_id" : "e14f6858-dc26-4837-acd1-84a40e517232"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Number",
+      "estimate" : 255.5,
+      "se" : 14.8,
+      "lowerCIB" : 240.6,
+      "upperCIB" : 270.3,
+      "flag" : "",
+      "_id" : "b8883fcc-26cf-41b3-a2b0-bf4b75668314"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 2.7,
+      "se" : 18.9,
+      "lowerCIB" : -16.2,
+      "upperCIB" : 21.6,
+      "flag" : "",
+      "_id" : "57bfda4c-7519-45b8-9597-53c0e95bb0cf"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Population",
+      "estimate" : 1084.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "b176ce73-e5a3-4fca-8f8e-f8d3af2d460a"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Proportion",
+      "estimate" : 23.4,
+      "se" : 1.3,
+      "lowerCIB" : 22.1,
+      "upperCIB" : 24.7,
+      "flag" : "",
+      "_id" : "e001e9c3-405f-423a-bec9-4debfbe23bf1"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.1,
+      "se" : 1.9,
+      "lowerCIB" : -2.0,
+      "upperCIB" : 1.8,
+      "flag" : "",
+      "_id" : "b3095395-1366-40f9-9d38-d49d0b692bc5"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Number",
+      "estimate" : 253.9,
+      "se" : 14.3,
+      "lowerCIB" : 239.6,
+      "upperCIB" : 268.1,
+      "flag" : "",
+      "_id" : "b198c534-d24b-479b-b162-1ca956c4c1b0"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -1.6,
+      "se" : 20.4,
+      "lowerCIB" : -22.0,
+      "upperCIB" : 18.8,
+      "flag" : "",
+      "_id" : "74c5dce0-63b8-48a9-95ca-337db792952a"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Population",
+      "estimate" : 1083.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "46553feb-9775-4e9b-b82f-2a0a3ae66261"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Proportion",
+      "estimate" : 24.6,
+      "se" : 1.3,
+      "lowerCIB" : 23.4,
+      "upperCIB" : 25.9,
+      "flag" : "",
+      "_id" : "12269290-82b9-404c-a025-bf3980c62c2b"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 1.2,
+      "se" : 1.8,
+      "lowerCIB" : -0.6,
+      "upperCIB" : 3.0,
+      "flag" : "",
+      "_id" : "22e6b200-7393-4137-9aa4-d6abe81d8cf5"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Number",
+      "estimate" : 267.9,
+      "se" : 13.9,
+      "lowerCIB" : 254.0,
+      "upperCIB" : 281.8,
+      "flag" : "",
+      "_id" : "93fec008-75d9-4337-9c60-1075a7278b5c"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 14.0,
+      "se" : 19.6,
+      "lowerCIB" : -5.6,
+      "upperCIB" : 33.6,
+      "flag" : "",
+      "_id" : "985966ce-7195-4d93-85e5-9303ad0cbf0c"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Population",
+      "estimate" : 1087.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "64ce784c-6b65-4409-97b4-3d4011f39aba"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Proportion",
+      "estimate" : 23.3,
+      "se" : 1.2,
+      "lowerCIB" : 22.0,
+      "upperCIB" : 24.5,
+      "flag" : "",
+      "_id" : "d69a1928-5768-474b-a50e-f50ce7c07743"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.4,
+      "se" : 1.7,
+      "lowerCIB" : -3.1,
+      "upperCIB" : 0.3,
+      "flag" : "",
+      "_id" : "7266b59d-b910-4847-8325-312249d6eaa2"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Number",
+      "estimate" : 254.4,
+      "se" : 13.5,
+      "lowerCIB" : 240.9,
+      "upperCIB" : 267.8,
+      "flag" : "",
+      "_id" : "4021af23-d2d5-44ea-a1ba-cc68cc6c5f27"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -13.5,
+      "se" : 18.7,
+      "lowerCIB" : -32.2,
+      "upperCIB" : 5.2,
+      "flag" : "",
+      "_id" : "e5c2b87b-2324-464a-8e8a-5f6dc52207f2"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Population",
+      "estimate" : 1093.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "15e3dd67-df7b-4c29-a83f-377d375d4de9"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Proportion",
+      "estimate" : 22.1,
+      "se" : 1.3,
+      "lowerCIB" : 20.7,
+      "upperCIB" : 23.4,
+      "flag" : "",
+      "_id" : "0fce3179-10e1-4427-9af2-2021d1f43e32"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.2,
+      "se" : 1.9,
+      "lowerCIB" : -3.1,
+      "upperCIB" : 0.6,
+      "flag" : "",
+      "_id" : "985ea7f3-c52b-4154-a3f7-3dfb807ead4d"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Number",
+      "estimate" : 243.3,
+      "se" : 14.4,
+      "lowerCIB" : 228.9,
+      "upperCIB" : 257.7,
+      "flag" : "",
+      "_id" : "17d16a37-f7aa-4947-8f74-655a3c4cdb99"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -11.1,
+      "se" : 20.3,
+      "lowerCIB" : -31.4,
+      "upperCIB" : 9.2,
+      "flag" : "",
+      "_id" : "80c11fa6-318c-4b1e-9d36-42e35a9b717f"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Population",
+      "estimate" : 1103.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "4ffe4c86-3c6b-4622-83a4-19887eab272e"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Proportion",
+      "estimate" : 25.3,
+      "se" : 1.2,
+      "lowerCIB" : 24.0,
+      "upperCIB" : 26.5,
+      "flag" : "",
+      "_id" : "4c87cdfc-7bbc-4278-b648-188c68c98948"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 3.2,
+      "se" : 1.8,
+      "lowerCIB" : 1.4,
+      "upperCIB" : 5.0,
+      "flag" : "",
+      "_id" : "fc1a47f2-0ca0-462a-bf08-771e28b9cada"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Number",
+      "estimate" : 281.2,
+      "se" : 13.6,
+      "lowerCIB" : 267.6,
+      "upperCIB" : 294.9,
+      "flag" : "",
+      "_id" : "2e3e2950-6377-4e76-8665-8e8b68e51e6b"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 37.9,
+      "se" : 20.3,
+      "lowerCIB" : 17.6,
+      "upperCIB" : 58.2,
+      "flag" : "",
+      "_id" : "c27ad5ce-a38a-45e0-ab6c-4cc5e65697a5"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Population",
+      "estimate" : 1113.3,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "8b02c3c3-fe57-4fa6-885f-105b9addba7d"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Proportion",
+      "estimate" : 22.1,
+      "se" : 1.1,
+      "lowerCIB" : 21.0,
+      "upperCIB" : 23.2,
+      "flag" : "",
+      "_id" : "08d29d24-b342-4a33-8d48-17b38a1dba96"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -3.2,
+      "se" : 1.8,
+      "lowerCIB" : -4.9,
+      "upperCIB" : -1.4,
+      "flag" : "",
+      "_id" : "1dc269b6-e525-41a4-8ae2-3d21415de470"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Number",
+      "estimate" : 250.3,
+      "se" : 12.6,
+      "lowerCIB" : 237.7,
+      "upperCIB" : 262.8,
+      "flag" : "",
+      "_id" : "761e4bb6-e625-4a70-8ff6-e00200522e49"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -30.9,
+      "se" : 19.7,
+      "lowerCIB" : -50.6,
+      "upperCIB" : -11.2,
+      "flag" : "",
+      "_id" : "77f1c46c-08ab-4d82-b7ac-8928f9c9db88"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Population",
+      "estimate" : 1132.8,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "68da2dc8-8502-4c6a-b2aa-bb416ab7ef73"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Proportion",
+      "estimate" : 21.8,
+      "se" : 1.5,
+      "lowerCIB" : 20.3,
+      "upperCIB" : 23.2,
+      "flag" : "",
+      "_id" : "f0e4beee-61ec-4b73-8337-b45a089c05e5"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.3,
+      "se" : 1.9,
+      "lowerCIB" : -2.3,
+      "upperCIB" : 1.6,
+      "flag" : "",
+      "_id" : "1beabe35-3f96-4b89-92f6-16786dfe5a54"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Number",
+      "estimate" : 248.9,
+      "se" : 16.9,
+      "lowerCIB" : 232.0,
+      "upperCIB" : 265.7,
+      "flag" : "",
+      "_id" : "4e071632-12b4-43af-b350-77af6652f5f4"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -1.4,
+      "se" : 21.8,
+      "lowerCIB" : -23.2,
+      "upperCIB" : 20.4,
+      "flag" : "",
+      "_id" : "4ef708f0-e2ee-4937-a97c-fe600714a96d"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Population",
+      "estimate" : 1144.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "0801c5eb-02ee-4253-a709-689bfaa4dcfc"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Proportion",
+      "estimate" : 20.7,
+      "se" : 1.3,
+      "lowerCIB" : 19.3,
+      "upperCIB" : 22.0,
+      "flag" : "",
+      "_id" : "0094c4fa-8541-4c86-ab2e-90f6b6922351"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.1,
+      "se" : 1.8,
+      "lowerCIB" : -2.9,
+      "upperCIB" : 0.7,
+      "flag" : "",
+      "_id" : "be6621ed-d31b-42e1-8058-da8d8a9e12b6"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Number",
+      "estimate" : 237.3,
+      "se" : 15.4,
+      "lowerCIB" : 221.9,
+      "upperCIB" : 252.8,
+      "flag" : "",
+      "_id" : "030e9bd7-8b1b-4b85-9cf0-d0a0d97af214"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -11.6,
+      "se" : 20.6,
+      "lowerCIB" : -32.1,
+      "upperCIB" : 9.0,
+      "flag" : "",
+      "_id" : "0febfb4e-ac2f-459c-9e5a-c173f1770c42"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Population",
+      "estimate" : 1149.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "7a7090dd-522c-4642-b1a5-a0749882bdbe"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Proportion",
+      "estimate" : 20.7,
+      "se" : 2.1,
+      "lowerCIB" : 18.6,
+      "upperCIB" : 22.8,
+      "flag" : "",
+      "_id" : "cd9d717c-1e92-4e10-9760-0a7efbe806cd"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.1,
+      "se" : 2.3,
+      "lowerCIB" : -2.2,
+      "upperCIB" : 2.4,
+      "flag" : "",
+      "_id" : "96d8b2dd-c977-4541-a239-c8364af8945c"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Number",
+      "estimate" : 238.7,
+      "se" : 24.1,
+      "lowerCIB" : 214.6,
+      "upperCIB" : 262.9,
+      "flag" : "",
+      "_id" : "e7b9fac2-f723-4378-b677-818fc1715067"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 1.4,
+      "se" : 26.8,
+      "lowerCIB" : -25.4,
+      "upperCIB" : 28.2,
+      "flag" : "",
+      "_id" : "5cd2228a-ea9f-49c9-b7a4-9ebec2f06844"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Population",
+      "estimate" : 1150.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "a46e4693-596f-416d-95d4-1210642a5f46"
+    } ],
+    "MEASA" : [ {
+      "year" : "2012",
+      "estCode" : "_Number",
+      "estimate" : 160.9,
+      "se" : 11.9,
+      "lowerCIB" : 149.0,
+      "upperCIB" : 172.8,
+      "flag" : "",
+      "_id" : "f02a9558-141c-45f7-aa98-813da464a6d2"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -1.0,
+      "se" : 18.8,
+      "lowerCIB" : -19.8,
+      "upperCIB" : 17.8,
+      "flag" : "",
+      "_id" : "89dcb543-adfc-4c50-a26d-4d224b3d5cbc"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Population",
+      "estimate" : 1085.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "e982d614-caf7-4429-b4b0-375db9ea846c"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Proportion",
+      "estimate" : 15.6,
+      "se" : 1.2,
+      "lowerCIB" : 14.4,
+      "upperCIB" : 16.7,
+      "flag" : "",
+      "_id" : "bd85f0a5-6996-43a7-ab0f-1ce0585300e5"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.8,
+      "se" : 1.5,
+      "lowerCIB" : -0.7,
+      "upperCIB" : 2.3,
+      "flag" : "",
+      "_id" : "a30eef66-5be7-45e7-9538-4a10c4121c48"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Number",
+      "estimate" : 169.0,
+      "se" : 12.6,
+      "lowerCIB" : 156.4,
+      "upperCIB" : 181.6,
+      "flag" : "",
+      "_id" : "ce577c72-6d07-4677-9615-7633f05f5d05"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 8.1,
+      "se" : 16.4,
+      "lowerCIB" : -8.3,
+      "upperCIB" : 24.5,
+      "flag" : "",
+      "_id" : "68622c52-e6ee-4c0b-8578-bbf82b9d0858"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Population",
+      "estimate" : 1084.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "2fb5d2ae-34c0-49a5-a076-b93017f34236"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Proportion",
+      "estimate" : 14.5,
+      "se" : 1.1,
+      "lowerCIB" : 13.4,
+      "upperCIB" : 15.7,
+      "flag" : "",
+      "_id" : "8cd84f9f-daaf-4d45-833b-8fff47e532c8"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.1,
+      "se" : 1.5,
+      "lowerCIB" : -2.6,
+      "upperCIB" : 0.5,
+      "flag" : "",
+      "_id" : "a5b24dcb-26b6-4d1b-b7ad-7a439a603d1b"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Number",
+      "estimate" : 157.5,
+      "se" : 12.3,
+      "lowerCIB" : 145.2,
+      "upperCIB" : 169.8,
+      "flag" : "",
+      "_id" : "2af719e2-fd8f-4239-94a4-5e9b7d87fdbf"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -11.5,
+      "se" : 16.7,
+      "lowerCIB" : -28.2,
+      "upperCIB" : 5.2,
+      "flag" : "",
+      "_id" : "6e8b7f10-be3e-491f-8e61-6731f5a9ee3f"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Population",
+      "estimate" : 1083.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "83fa96ac-ceb9-403b-922f-c2bb9c02ea90"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Proportion",
+      "estimate" : 16.3,
+      "se" : 1.1,
+      "lowerCIB" : 15.2,
+      "upperCIB" : 17.4,
+      "flag" : "",
+      "_id" : "ed667791-f71a-463b-afc0-b70fa2def8c7"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 1.8,
+      "se" : 1.7,
+      "lowerCIB" : 0.1,
+      "upperCIB" : 3.5,
+      "flag" : "",
+      "_id" : "28171e74-4eb0-4b53-a663-9e56c176a7f2"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Number",
+      "estimate" : 177.2,
+      "se" : 12.2,
+      "lowerCIB" : 165.0,
+      "upperCIB" : 189.4,
+      "flag" : "",
+      "_id" : "0525a508-c8d0-4c94-8376-823753bd9c2b"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 19.7,
+      "se" : 18.3,
+      "lowerCIB" : 1.4,
+      "upperCIB" : 38.0,
+      "flag" : "",
+      "_id" : "602144d3-460e-4d64-be9d-cfb847ce22de"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Population",
+      "estimate" : 1087.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "ea8a32cd-f800-45ad-9d40-7ee5c14930e1"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Proportion",
+      "estimate" : 15.4,
+      "se" : 1.1,
+      "lowerCIB" : 14.3,
+      "upperCIB" : 16.5,
+      "flag" : "",
+      "_id" : "1e3494a2-a16d-4fc2-ae86-7c33747f5622"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.9,
+      "se" : 1.6,
+      "lowerCIB" : -2.5,
+      "upperCIB" : 0.7,
+      "flag" : "",
+      "_id" : "e6d79e29-3a38-4660-b2cd-947c822be6b9"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Number",
+      "estimate" : 168.3,
+      "se" : 11.9,
+      "lowerCIB" : 156.5,
+      "upperCIB" : 180.2,
+      "flag" : "",
+      "_id" : "bf77d4d7-f4e9-4772-a36c-a37c5918920d"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -8.9,
+      "se" : 16.9,
+      "lowerCIB" : -25.8,
+      "upperCIB" : 8.0,
+      "flag" : "",
+      "_id" : "b9ad2051-071f-4753-becd-b9c396cbb16a"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Population",
+      "estimate" : 1093.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "afe6e094-a785-43a6-a537-0bf6df522edb"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Proportion",
+      "estimate" : 14.2,
+      "se" : 1.1,
+      "lowerCIB" : 13.0,
+      "upperCIB" : 15.3,
+      "flag" : "",
+      "_id" : "825efba5-cf35-451d-b780-3f2427dc79f3"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.2,
+      "se" : 1.6,
+      "lowerCIB" : -2.8,
+      "upperCIB" : 0.3,
+      "flag" : "",
+      "_id" : "b07c12d6-5b5f-4f09-a0a5-6c3d83be4603"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Number",
+      "estimate" : 156.3,
+      "se" : 12.4,
+      "lowerCIB" : 143.9,
+      "upperCIB" : 168.6,
+      "flag" : "",
+      "_id" : "8c572430-1843-43fe-8c7a-e876835a62ca"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -12.1,
+      "se" : 17.2,
+      "lowerCIB" : -29.3,
+      "upperCIB" : 5.1,
+      "flag" : "",
+      "_id" : "eb94e3cc-3e48-4d27-a76b-2d0e63347eb6"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Population",
+      "estimate" : 1103.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "c1af8c85-0ae7-47d0-bb7b-5041c2f34e6f"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Proportion",
+      "estimate" : 16.5,
+      "se" : 1.1,
+      "lowerCIB" : 15.4,
+      "upperCIB" : 17.6,
+      "flag" : "",
+      "_id" : "a2f5adcf-0c3b-4b62-880f-439939dedab7"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 2.3,
+      "se" : 1.6,
+      "lowerCIB" : 0.7,
+      "upperCIB" : 3.9,
+      "flag" : "",
+      "_id" : "60626634-6233-44cf-a19c-9ae9ceb8e802"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Number",
+      "estimate" : 183.4,
+      "se" : 12.2,
+      "lowerCIB" : 171.2,
+      "upperCIB" : 195.6,
+      "flag" : "",
+      "_id" : "b9c7899e-c6ac-4047-b30a-c38d83ccc21c"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 27.1,
+      "se" : 17.4,
+      "lowerCIB" : 9.7,
+      "upperCIB" : 44.5,
+      "flag" : "",
+      "_id" : "e9f43240-b34c-4e0f-92f8-a91bbe68d65c"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Population",
+      "estimate" : 1113.3,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "e5594919-ae4b-4f91-9327-e63a98479229"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Proportion",
+      "estimate" : 13.5,
+      "se" : 0.9,
+      "lowerCIB" : 12.6,
+      "upperCIB" : 14.4,
+      "flag" : "",
+      "_id" : "51747bb6-a450-45e3-a560-0ebbf780614e"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -2.9,
+      "se" : 1.7,
+      "lowerCIB" : -4.7,
+      "upperCIB" : -1.2,
+      "flag" : "",
+      "_id" : "cdd4d97e-f524-4526-bbd9-973a5ee0b899"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Number",
+      "estimate" : 153.2,
+      "se" : 10.1,
+      "lowerCIB" : 143.2,
+      "upperCIB" : 163.3,
+      "flag" : "",
+      "_id" : "5b0c8465-c6fb-416b-836b-d96716e1a7bd"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -30.1,
+      "se" : 19.6,
+      "lowerCIB" : -49.7,
+      "upperCIB" : -10.5,
+      "flag" : "",
+      "_id" : "0dfa350d-29fe-4bd7-92d6-dc609d6b2f78"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Population",
+      "estimate" : 1132.8,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "6168fe27-89ed-4d53-8c14-0f86c5869373"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Proportion",
+      "estimate" : 13.2,
+      "se" : 1.2,
+      "lowerCIB" : 12.0,
+      "upperCIB" : 14.5,
+      "flag" : "",
+      "_id" : "573df477-3d87-4e58-af4f-c1b2a3cc375f"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.3,
+      "se" : 1.6,
+      "lowerCIB" : -1.9,
+      "upperCIB" : 1.2,
+      "flag" : "",
+      "_id" : "c1b1c0ef-87db-43ae-9c77-50db92768f06"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Number",
+      "estimate" : 151.2,
+      "se" : 14.2,
+      "lowerCIB" : 137.0,
+      "upperCIB" : 165.4,
+      "flag" : "",
+      "_id" : "8999b281-834b-41ad-8295-36c227490cb9"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -2.1,
+      "se" : 17.8,
+      "lowerCIB" : -19.9,
+      "upperCIB" : 15.7,
+      "flag" : "",
+      "_id" : "614ab2fb-b9e6-4290-b1bb-309d42e67cef"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Population",
+      "estimate" : 1144.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "3c405f58-e389-4c91-9887-796df30d5344"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Proportion",
+      "estimate" : 13.0,
+      "se" : 1.2,
+      "lowerCIB" : 11.8,
+      "upperCIB" : 14.2,
+      "flag" : "",
+      "_id" : "fb7495c4-45cc-45d7-b835-1b151de53d53"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.2,
+      "se" : 1.6,
+      "lowerCIB" : -1.9,
+      "upperCIB" : 1.4,
+      "flag" : "",
+      "_id" : "3ae5d4ff-54ee-4587-a25d-ec6f28baf742"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Number",
+      "estimate" : 149.1,
+      "se" : 13.8,
+      "lowerCIB" : 135.3,
+      "upperCIB" : 162.9,
+      "flag" : "",
+      "_id" : "112c9762-5e37-4773-b35f-ee14da69c6de"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -2.1,
+      "se" : 18.8,
+      "lowerCIB" : -20.9,
+      "upperCIB" : 16.7,
+      "flag" : "",
+      "_id" : "42aa2e3f-77dc-4ba6-b336-9a4c585f6417"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Population",
+      "estimate" : 1149.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "e67dd3ba-5c09-4a74-b8ff-655a9915f111"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Proportion",
+      "estimate" : 12.0,
+      "se" : 1.7,
+      "lowerCIB" : 10.3,
+      "upperCIB" : 13.6,
+      "flag" : "",
+      "_id" : "9da9ea5d-56a9-4b52-9cae-9a7cd66e7d2e"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.0,
+      "se" : 2.0,
+      "lowerCIB" : -3.0,
+      "upperCIB" : 1.0,
+      "flag" : "",
+      "_id" : "4bc91c16-a7f0-4f1a-ad92-a22a03345c1d"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Number",
+      "estimate" : 137.8,
+      "se" : 19.2,
+      "lowerCIB" : 118.6,
+      "upperCIB" : 157.1,
+      "flag" : "",
+      "_id" : "9e4580a5-fa18-4945-b7bf-74c0b2591da7"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -11.2,
+      "se" : 22.9,
+      "lowerCIB" : -34.1,
+      "upperCIB" : 11.6,
+      "flag" : "",
+      "_id" : "8bab6be1-ebd6-451e-b598-9ed64f79df55"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Population",
+      "estimate" : 1150.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "6c50dbc2-8e24-42a1-86e4-83faf20ee884"
+    } ],
+    "MEASJ" : [ {
+      "year" : "2007",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "f95178b8-63e1-4da1-b774-2de0d0c22014"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "c0cb24de-2027-4d11-b581-1e254457b076"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "b302be0c-9f2d-43d3-bd54-816dc58fcd0e"
+    }, {
+      "year" : "2007",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "46e03947-da13-46da-a23e-8daa6a04cff7"
+    }, {
+      "year" : "2007",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "b4f049cd-4cd0-4fc7-8bd6-41abb3db4eff"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "a7154ebe-8b8d-44e9-8bca-14531360a0d4"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "fe729041-3635-4497-aa53-3a87cd243746"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "12f8a517-42f1-4b36-a560-5e0ba515b965"
+    }, {
+      "year" : "2008",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "73d54f5a-27f8-445c-b07a-40e355accd4c"
+    }, {
+      "year" : "2008",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "dd4165dc-5883-49fb-a542-84075a514be7"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "a474929e-bc7a-4120-8609-a2e93bb43665"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "940ba960-d7a0-4450-afab-b08a31fbea29"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "7b6849b5-d70a-457b-a304-77747eb35851"
+    }, {
+      "year" : "2009",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "4b36e31b-5fdf-4cf0-b404-c8fae2d2f751"
+    }, {
+      "year" : "2009",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "de26115e-d9f5-46ac-b01a-a3260c95c9e8"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "ea46bba0-ab97-4ba0-8a97-defdfb8279ae"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "ae4d53d8-f97b-463a-87b3-78f025a46485"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "de4631c9-779b-4a3f-abee-54eb81b6894f"
+    }, {
+      "year" : "2010",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "14fde918-5bf0-4479-9912-76f6b21cec59"
+    }, {
+      "year" : "2010",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "2337f7da-abb0-4ad5-b4c0-09af87f4463e"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "acf532c8-c8b9-4fa2-8310-c130b08173a0"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "c9e3f3be-1569-469a-9dff-350071211b82"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "70bb94e2-6453-4400-a02a-0182c7780829"
+    }, {
+      "year" : "2011",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "4e83259e-4f9f-42c7-b9cb-0cce13050890"
+    }, {
+      "year" : "2011",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "4521787a-0eb2-4d87-8a5e-6cbd71aa0d47"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Proportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "cf5c5489-9df1-4653-958b-f65a38c9c46b"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "e95ff743-7e98-4a11-9d21-8d9eaa5200fb"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Number",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "18d214ff-8171-4834-a9b7-1ee27bb47614"
+    }, {
+      "year" : "2012",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "8a377dbe-27ed-425d-b174-2adb50996074"
+    }, {
+      "year" : "2012",
+      "estCode" : "_Population",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "6db70038-f41d-4e33-aaff-67e556a290d1"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Proportion",
+      "estimate" : 10.5,
+      "se" : 3.3,
+      "lowerCIB" : 7.2,
+      "upperCIB" : 13.8,
+      "flag" : "",
+      "_id" : "6c78c3a6-a848-4173-8115-26ec9ded4a70"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "cbe04090-7d60-4080-ab06-5ad59284b604"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Number",
+      "estimate" : 113.8,
+      "se" : 35.7,
+      "lowerCIB" : 78.1,
+      "upperCIB" : 149.4,
+      "flag" : "",
+      "_id" : "0064b777-ebf9-4341-a403-a413664a03ad"
+    }, {
+      "year" : "2013",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 0.0,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "A",
+      "_id" : "da487f2c-1eec-4f35-8051-c8ede51fe2c2"
+    }, {
+      "year" : "2013",
+      "estCode" : "_Population",
+      "estimate" : 1084.7,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "0d92edfb-1b2e-43d9-835f-248fa9179728"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Proportion",
+      "estimate" : 8.9,
+      "se" : 2.6,
+      "lowerCIB" : 6.2,
+      "upperCIB" : 11.5,
+      "flag" : "",
+      "_id" : "e17ba25d-ab53-44e3-a9ba-bdd2d0e16aa0"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.6,
+      "se" : 4.2,
+      "lowerCIB" : -5.9,
+      "upperCIB" : 2.6,
+      "flag" : "",
+      "_id" : "9e899d62-a7d1-4353-89f0-fd393dafce41"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Number",
+      "estimate" : 96.2,
+      "se" : 28.3,
+      "lowerCIB" : 67.9,
+      "upperCIB" : 124.5,
+      "flag" : "",
+      "_id" : "8e4837fd-6412-4e21-bd7b-8282dd7d9ab9"
+    }, {
+      "year" : "2014",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -17.6,
+      "se" : 46.0,
+      "lowerCIB" : -63.6,
+      "upperCIB" : 28.4,
+      "flag" : "",
+      "_id" : "267f724e-c74f-4609-a24d-cc1bcf0c3b05"
+    }, {
+      "year" : "2014",
+      "estCode" : "_Population",
+      "estimate" : 1083.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "f57be1af-c12f-4e99-aa44-cc2b30817ffa"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Proportion",
+      "estimate" : 10.2,
+      "se" : 2.6,
+      "lowerCIB" : 7.6,
+      "upperCIB" : 12.8,
+      "flag" : "",
+      "_id" : "9c09f3a0-8129-4fd4-bb06-9822aab4d4b5"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 1.3,
+      "se" : 3.9,
+      "lowerCIB" : -2.5,
+      "upperCIB" : 5.2,
+      "flag" : "",
+      "_id" : "91cd82ae-b53a-44e5-baca-3c24b5ba99bd"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Number",
+      "estimate" : 110.9,
+      "se" : 27.6,
+      "lowerCIB" : 83.3,
+      "upperCIB" : 138.5,
+      "flag" : "",
+      "_id" : "13269594-7d7f-4b70-aae7-479027eed9e6"
+    }, {
+      "year" : "2015",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 14.7,
+      "se" : 41.8,
+      "lowerCIB" : -27.1,
+      "upperCIB" : 56.5,
+      "flag" : "",
+      "_id" : "3646f978-6816-4195-a3f8-f2247dbb7c96"
+    }, {
+      "year" : "2015",
+      "estCode" : "_Population",
+      "estimate" : 1087.1,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "86debcf1-d705-40f9-98c4-93ade8203395"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Proportion",
+      "estimate" : 7.2,
+      "se" : 2.5,
+      "lowerCIB" : 4.7,
+      "upperCIB" : 9.8,
+      "flag" : "",
+      "_id" : "6cfb70ed-e13c-4628-bf61-33f2ff74c122"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -3.0,
+      "se" : 3.6,
+      "lowerCIB" : -6.6,
+      "upperCIB" : 0.6,
+      "flag" : "",
+      "_id" : "c537bc75-722b-476b-9d3d-21cc2e7606a0"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Number",
+      "estimate" : 78.8,
+      "se" : 27.8,
+      "lowerCIB" : 51.0,
+      "upperCIB" : 106.6,
+      "flag" : "",
+      "_id" : "d53f27ff-f0d4-4fc8-8ba6-3947d5bc8cb3"
+    }, {
+      "year" : "2016",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -32.1,
+      "se" : 39.4,
+      "lowerCIB" : -71.5,
+      "upperCIB" : 7.3,
+      "flag" : "",
+      "_id" : "9cc75780-5cb1-4ec2-98ed-5167c4dfc177"
+    }, {
+      "year" : "2016",
+      "estCode" : "_Population",
+      "estimate" : 1093.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "f967ed15-163c-4c5b-88be-e97a1e3325ca"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Proportion",
+      "estimate" : 7.8,
+      "se" : 2.0,
+      "lowerCIB" : 5.8,
+      "upperCIB" : 9.9,
+      "flag" : "",
+      "_id" : "9a8a46af-01df-42d9-8b11-fb3e8d33c29c"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 0.6,
+      "se" : 3.5,
+      "lowerCIB" : -2.9,
+      "upperCIB" : 4.1,
+      "flag" : "",
+      "_id" : "e7cb3330-abec-4cd0-be48-667decf4c21f"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Number",
+      "estimate" : 86.2,
+      "se" : 22.4,
+      "lowerCIB" : 63.8,
+      "upperCIB" : 108.6,
+      "flag" : "",
+      "_id" : "90567ccd-b274-45d1-a44b-7ad63b304a99"
+    }, {
+      "year" : "2017",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 7.4,
+      "se" : 38.2,
+      "lowerCIB" : -30.8,
+      "upperCIB" : 45.6,
+      "flag" : "",
+      "_id" : "76619050-ee2f-439d-9020-1180572388ea"
+    }, {
+      "year" : "2017",
+      "estCode" : "_Population",
+      "estimate" : 1103.2,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "8d550f17-5381-4f85-a7e9-3268a12f5d6a"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Proportion",
+      "estimate" : 8.8,
+      "se" : 1.8,
+      "lowerCIB" : 7.1,
+      "upperCIB" : 10.6,
+      "flag" : "",
+      "_id" : "dd148df8-819f-4cec-903a-178a02826ae5"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : 1.0,
+      "se" : 2.9,
+      "lowerCIB" : -1.9,
+      "upperCIB" : 3.9,
+      "flag" : "",
+      "_id" : "3d6949d0-1dc5-494c-81f4-e9163a5da355"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Number",
+      "estimate" : 98.3,
+      "se" : 19.5,
+      "lowerCIB" : 78.8,
+      "upperCIB" : 117.8,
+      "flag" : "",
+      "_id" : "7e78ee22-d914-40af-b9ac-5b65c5ae13e3"
+    }, {
+      "year" : "2018",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : 12.1,
+      "se" : 31.7,
+      "lowerCIB" : -19.6,
+      "upperCIB" : 43.8,
+      "flag" : "",
+      "_id" : "439c37b2-1997-4afe-b984-3200a87288d7"
+    }, {
+      "year" : "2018",
+      "estCode" : "_Population",
+      "estimate" : 1113.3,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "2a40037a-3002-4a2a-9039-5ecffc091128"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Proportion",
+      "estimate" : 7.7,
+      "se" : 0.8,
+      "lowerCIB" : 6.9,
+      "upperCIB" : 8.5,
+      "flag" : "",
+      "_id" : "e487dc74-3253-470d-8a14-1f43b0427209"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -1.1,
+      "se" : 1.9,
+      "lowerCIB" : -3.1,
+      "upperCIB" : 0.8,
+      "flag" : "",
+      "_id" : "56da90c9-978e-49f0-849f-b45d120c5ca4"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Number",
+      "estimate" : 87.1,
+      "se" : 9.4,
+      "lowerCIB" : 77.7,
+      "upperCIB" : 96.5,
+      "flag" : "",
+      "_id" : "bc3ebc62-9f55-4f3c-9292-1fd4281ff500"
+    }, {
+      "year" : "2019",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -11.2,
+      "se" : 21.3,
+      "lowerCIB" : -32.5,
+      "upperCIB" : 10.1,
+      "flag" : "",
+      "_id" : "b14b1ca8-1183-469a-9684-9a37fc511688"
+    }, {
+      "year" : "2019",
+      "estCode" : "_Population",
+      "estimate" : 1132.8,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "9e343e28-6427-4a02-8ae4-c59d09134242"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Proportion",
+      "estimate" : 6.9,
+      "se" : 1.0,
+      "lowerCIB" : 5.9,
+      "upperCIB" : 7.8,
+      "flag" : "",
+      "_id" : "434cf807-def9-41db-9bf8-2c01fc313a75"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.8,
+      "se" : 1.2,
+      "lowerCIB" : -2.1,
+      "upperCIB" : 0.4,
+      "flag" : "",
+      "_id" : "80ce069b-f39b-4d4a-9799-e2b7a2585057"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Number",
+      "estimate" : 78.4,
+      "se" : 11.2,
+      "lowerCIB" : 67.2,
+      "upperCIB" : 89.5,
+      "flag" : "",
+      "_id" : "745778e7-d1e1-4f06-91c2-40f125ded344"
+    }, {
+      "year" : "2020",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -8.7,
+      "se" : 14.1,
+      "lowerCIB" : -22.9,
+      "upperCIB" : 5.4,
+      "flag" : "",
+      "_id" : "737dec9f-5e7f-41b1-85ee-e291dedd82d6"
+    }, {
+      "year" : "2020",
+      "estCode" : "_Population",
+      "estimate" : 1142.3,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "933415b3-8e29-48d5-bef9-bf4491fd7971"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Proportion",
+      "estimate" : 6.4,
+      "se" : 0.8,
+      "lowerCIB" : 5.6,
+      "upperCIB" : 7.2,
+      "flag" : "",
+      "_id" : "d616ac49-83bf-4d85-bdd7-e6e33b0490ab"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.5,
+      "se" : 1.1,
+      "lowerCIB" : -1.6,
+      "upperCIB" : 0.7,
+      "flag" : "",
+      "_id" : "a4625c41-19a6-4c05-b288-b10693bb3acb"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Number",
+      "estimate" : 73.5,
+      "se" : 9.6,
+      "lowerCIB" : 63.8,
+      "upperCIB" : 83.1,
+      "flag" : "",
+      "_id" : "4c379685-a494-4d4a-aef6-e2bf27e27045"
+    }, {
+      "year" : "2021",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -4.9,
+      "se" : 13.0,
+      "lowerCIB" : -17.9,
+      "upperCIB" : 8.1,
+      "flag" : "",
+      "_id" : "8a090648-3398-4a52-b2d3-f10d3699fa3e"
+    }, {
+      "year" : "2021",
+      "estCode" : "_Population",
+      "estimate" : 1146.9,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "7099c38a-2b56-496a-a002-fb33f221043c"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Proportion",
+      "estimate" : 5.9,
+      "se" : 1.2,
+      "lowerCIB" : 4.7,
+      "upperCIB" : 7.0,
+      "flag" : "",
+      "_id" : "eb5535eb-73f4-4034-b50a-ad3fe4ed1ed0"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInProportion",
+      "estimate" : -0.5,
+      "se" : 1.4,
+      "lowerCIB" : -2.0,
+      "upperCIB" : 0.9,
+      "flag" : "",
+      "_id" : "21019943-016f-4590-837b-c17e5dae2b79"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Number",
+      "estimate" : 67.3,
+      "se" : 13.3,
+      "lowerCIB" : 54.1,
+      "upperCIB" : 80.6,
+      "flag" : "",
+      "_id" : "777b6af5-910d-46f7-9662-9f1fd297bfa0"
+    }, {
+      "year" : "2022",
+      "estCode" : "_ChangeInNumber",
+      "estimate" : -6.1,
+      "se" : 16.2,
+      "lowerCIB" : -22.3,
+      "upperCIB" : 10.1,
+      "flag" : "",
+      "_id" : "cb67a2f6-d637-48fc-b275-cdfb94ef6b42"
+    }, {
+      "year" : "2022",
+      "estCode" : "_Population",
+      "estimate" : 1149.6,
+      "se" : 0.0,
+      "lowerCIB" : 0.0,
+      "upperCIB" : 0.0,
+      "flag" : "",
+      "_id" : "2c84f890-746e-4217-9867-13d075fdc128"
+    } ]
+  }
